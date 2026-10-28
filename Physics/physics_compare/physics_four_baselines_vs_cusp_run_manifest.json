@@ -1,0 +1,53 @@
+{
+  "run_timestamp_utc": "2026-10-24T03:03:33.170723+00:00",
+  "input_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_data.csv",
+  "input_sha256": "40abe564c0b3ac67b69d3d5bd82213c19721d64e6dc7e4b05c6c395faeb8db82",
+  "field": "Physics",
+  "physics_training_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_train\\physics_fivefold_training.py",
+  "physics_training_script_sha256": "e717f3812217f9e1bf84610c58dae846b19d603c99ac2dd613931b408830a082",
+  "comparison_core_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_compare\\ai_model_comparison.py",
+  "comparison_core_script_sha256": "eb20f4da6bb9f588a1cd9507552b4c559a081388b70bdb6023ee1ef14ba48d9a",
+  "main_oof_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_train\\oof_predictions.csv",
+  "main_oof_sha256": "d6b1447621671e60d34048827ce8340827218a113e96f3887477dbe0d1c49640",
+  "prior_reference_count_oof_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_robustness\\physics_reference_count_oof_predictions.csv",
+  "prior_reference_count_oof_sha256": "2d98d99eb2e79bd4baacf0331de542e60b1703ede99f1dff78d64802f7d704f4",
+  "output_directory": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_compare",
+  "sample_n": 441,
+  "award_n": 63,
+  "control_n": 378,
+  "folds": 5,
+  "random_state": 20260612,
+  "bootstrap_repetitions": 2000,
+  "models": {
+    "baseline_1_heterogeneity_only": "unpenalized logistic regression using m",
+    "baseline_2_relevance_only": "unpenalized logistic regression using n",
+    "baseline_3_reference_count_only": "unpenalized logistic regression using log(1 + num_refs)",
+    "baseline_4_simple_logistic_m_n": "unpenalized logistic regression using m + n",
+    "proposed_cusp": "Delta = -8*m^3 + 27*beta^2*n^2"
+  },
+  "feature_scaling": "m, n, and log_num_refs standardized using training-fold mean and standard deviation for logistic models only; training-fold parameters applied unchanged to the held-out fold.",
+  "threshold_selection": "F1-optimal empirical threshold learned independently in each training fold for every model.",
+  "reference_count_transform": "log(1 + num_refs)",
+  "reference_count_used_only_in": "baseline_3_reference_count_only",
+  "software": {
+    "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "pandas": "2.2.2",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "scikit_learn": "1.5.1"
+  },
+  "output_files": [
+    "physics_four_baselines_input_validation.csv",
+    "physics_four_baselines_vs_cusp_design_checks.csv",
+    "physics_four_baselines_fold_parameters.csv",
+    "physics_four_baselines_fold_test_metrics.csv",
+    "physics_four_baselines_overall_metrics.csv",
+    "physics_five_models_fold_parameters.csv",
+    "physics_five_models_fold_test_metrics.csv",
+    "physics_five_models_oof_predictions.csv",
+    "physics_five_models_overall_comparison.csv",
+    "physics_five_models_display_table.csv",
+    "physics_cusp_vs_each_of_four_baselines_paired_bootstrap.csv"
+  ]
+}

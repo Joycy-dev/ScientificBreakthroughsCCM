@@ -1,0 +1,11 @@
+﻿check,status,details
+required_values_complete,PASS,missing_cells=0
+idx_unique,PASS,duplicate_idx=0
+binary_award_labels,PASS,"labels=[0, 1]"
+numeric_values_finite,PASS,all numeric inputs finite
+counts_nonnegative_integers,PASS,num_all/num_d/num_m/num_s/num_refs checked
+num_all_positive,PASS,zero_or_negative=0
+citation_counts_reconcile,PASS,mismatched_rows=0
+m_matches_similarity_range,PASS,max_abs_error=1.00000008968e-09
+citation_proportions_sum_to_one,PASS,max_abs_error=1.11022302463e-16
+enough_cases_for_five_folds,PASS,"class_counts={0: 378, 1: 63}"

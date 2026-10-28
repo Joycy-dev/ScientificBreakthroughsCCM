@@ -1,0 +1,45 @@
+{
+  "run_timestamp_utc": "2026-10-24T02:52:25.914019+00:00",
+  "input_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_data.csv",
+  "input_sha256": "40abe564c0b3ac67b69d3d5bd82213c19721d64e6dc7e4b05c6c395faeb8db82",
+  "field": "Physics",
+  "physics_training_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_train\\physics_fivefold_training.py",
+  "physics_training_script_sha256": "e717f3812217f9e1bf84610c58dae846b19d603c99ac2dd613931b408830a082",
+  "sensitivity_core_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_sensitivity\\ai_beta_sensitivity.py",
+  "sensitivity_core_script_sha256": "ab9a55318c3e824236ac1a20a4c947113f6fba7a5ceee62d358ed5c11107eaee",
+  "main_oof_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_train\\oof_predictions.csv",
+  "main_oof_sha256": "d6b1447621671e60d34048827ce8340827218a113e96f3887477dbe0d1c49640",
+  "output_directory": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_sensitivity",
+  "sample_n": 441,
+  "award_n": 63,
+  "control_n": 378,
+  "folds": 5,
+  "random_state": 20260612,
+  "beta_multipliers": [
+    0.5,
+    0.75,
+    1.0,
+    1.25,
+    1.5
+  ],
+  "empirical_threshold": "F1-optimal Delta threshold learned independently within each training fold for every beta multiplier.",
+  "theoretical_boundary": "Delta = 0 evaluated separately at beta multiplier 1.0; it is not treated as the empirically learned classification threshold.",
+  "software": {
+    "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "pandas": "2.2.2",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "scikit_learn": "1.5.1"
+  },
+  "output_files": [
+    "physics_sensitivity_input_validation.csv",
+    "physics_sensitivity_design_checks.csv",
+    "physics_sensitivity_fold_parameters.csv",
+    "physics_sensitivity_fold_test_metrics.csv",
+    "physics_sensitivity_oof_predictions.csv",
+    "physics_sensitivity_overall_metrics.csv",
+    "physics_sensitivity_metric_range_summary.csv",
+    "physics_sensitivity_theoretical_zero_boundary_metrics.csv"
+  ]
+}

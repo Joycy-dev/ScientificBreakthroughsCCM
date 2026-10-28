@@ -1,0 +1,2 @@
+﻿comparison,added_term,M1_log_likelihood,M2_log_likelihood,likelihood_ratio_chi2,degrees_freedom,likelihood_ratio_p_value,M1_AIC,M2_AIC,M1_BIC,M2_BIC
+M2 versus M1,m,-168.3159762985276,-157.67062437526118,21.290703846532836,1,3.946406676677312e-06,342.6319525970552,323.34124875052237,354.8990872233957,339.69742825230975

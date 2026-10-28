@@ -1,0 +1,46 @@
+{
+  "run_timestamp_utc": "2026-10-24T02:17:16.293034+00:00",
+  "input_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_data.csv",
+  "input_sha256": "40abe564c0b3ac67b69d3d5bd82213c19721d64e6dc7e4b05c6c395faeb8db82",
+  "output_directory": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_train",
+  "field": "Physics",
+  "sample_n": 441,
+  "award_n": 63,
+  "control_n": 378,
+  "folds": 5,
+  "random_state": 20260612,
+  "bootstrap_repetitions": 2000,
+  "training_core": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_train\\ai_fivefold_training.py",
+  "training_core_sha256": "86a02f724841ca09b8ab6f91f9f63e6eb2e0a59c238ddbe03d911e9aa4afaa97",
+  "proportion_definitions": {
+    "P_d": "num_d / num_all",
+    "P_m": "num_m / num_all",
+    "P_s": "num_s / num_all"
+  },
+  "fold_only_parameters": [
+    "weight_d",
+    "weight_m",
+    "weight_s",
+    "beta",
+    "F1-optimal threshold"
+  ],
+  "software": {
+    "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "pandas": "2.2.2",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "scikit_learn": "1.5.1"
+  },
+  "output_files": [
+    "input_validation.csv",
+    "fold_parameters.csv",
+    "fold_test_metrics.csv",
+    "fold_parameter_summary.csv",
+    "oof_predictions.csv",
+    "overall_oof_metrics.csv",
+    "metric_confidence_intervals.csv",
+    "table5_physics_thresholds.csv",
+    "table6_physics_metrics.csv"
+  ]
+}

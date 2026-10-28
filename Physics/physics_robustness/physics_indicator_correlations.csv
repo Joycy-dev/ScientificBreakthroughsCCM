@@ -1,0 +1,7 @@
+﻿method,variable_1,variable_2,correlation
+pearson,num_refs,m,0.5588199094201919
+pearson,num_refs,std_similarity,0.33821498010165946
+pearson,m,std_similarity,0.914341604301204
+spearman,num_refs,m,0.5768611941671654
+spearman,num_refs,std_similarity,0.34163584258419044
+spearman,m,std_similarity,0.8719587017264514

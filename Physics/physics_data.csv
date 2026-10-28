@@ -1,0 +1,442 @@
+﻿idx,title,award,num_all,num_d,num_m,num_s,num_refs,mean_similarity,max_similarity,min_similarity,std_similarity,m
+0,Measurement of the Rate of νe+d→p+p+e? Interactions Produced by B8 Solar Neutrinos at the Sudbury Neutrino Observatory,1,39,0,5,34,30,0.671172857,0.884633064,0.290499091,0.162142828,0.594133973
+1,Electron Spin Resonance Observation of the Si(111)-(7×7)Surface and Its Oxidation Process,0,33,0,17,16,31,0.815088451,0.944739878,0.550976872,0.12791124,0.393763006
+2,Search of Self-Organized Criticality Processes in Magnetically Confined Plasmas: Hints from the Reversed Field Pinch Configuration,0,20,1,5,14,24,0.824627101,0.880540609,0.616441488,0.057605676,0.264099121
+3,Self-Parametric Instability in Spatially Extended Systems,0,11,0,2,9,12,0.665490091,0.807169795,0.546330094,0.09139701,0.260839701
+4,Element-Selective Nanosecond Magnetization Dynamics in Magnetic Heterostructures,0,10,0,5,5,19,0.796080291,0.895892382,0.553830266,0.090543427,0.342062116
+5,Direct Evidence for Neutrino Flavor Transformation from Neutral-Current Interactions in the Sudbury Neutrino Observatory,1,19,0,7,12,15,0.665887177,0.921952248,0.37941885,0.149978608,0.542533398
+6,Localized Metallic Conductivity and Self-Healing during Thermal Reduction ofSrTiO3,0,35,0,10,25,29,0.737036884,0.867504597,0.583894789,0.100861445,0.283609807
+7,Divergence-Free WKB Method,0,9,2,1,6,17,0.714741647,0.809163451,0.545995891,0.085164979,0.26316756
+8,Collective Deceleration of Ultrarelativistic Nuclei and Creation of Quark-Gluon Plasma,0,17,0,6,11,20,0.743604124,0.893806517,0.568225384,0.11902681,0.325581133
+9,Interisotope Determination of Ultracold Rubidium Interactions from Three High-Precision Experiments,0,34,0,20,14,19,0.760348678,0.839389801,0.549938083,0.083025619,0.289451718
+10,Dynamic Behavior of Anisotropic Nonequilibrium Driving Lattice Gases,0,25,1,18,6,23,0.739503264,0.882197559,0.465741485,0.125434801,0.416456074
+11,Inhomogeneous Magnetism in Single CrystallineSr3CuIrO6+δ: Implications to Phase-Separation Concepts,0,31,0,11,20,17,0.703987956,0.86605835,0.555538535,0.106073454,0.310519814
+12,Model and Observations of Schottky-Noise Suppression in a Cold Heavy-Ion Beam,0,9,0,2,7,9,0.755741239,0.872380614,0.566104054,0.113744691,0.30627656
+13,Large Mass Hierarchy from a Small Extra Dimension,1,12,1,3,8,17,0.736357391,0.876353979,0.546892524,0.110424533,0.329461455
+14,Strain Hardening of Fractal Colloidal Gels,0,22,0,7,15,17,0.802570999,0.916757345,0.679927409,0.070569105,0.236829937
+15,Change of Compressiblity at the Glass Transition and Prigogine-Defay Ratio in ZrTiCuNiBe Alloys,0,21,0,6,15,19,0.767508149,0.877013505,0.551186979,0.106962584,0.325826526
+16,Macroscopic Magnetic Islands and Plasma Energy Transport,0,16,0,6,10,7,0.818671167,0.867565572,0.771460414,0.027760495,0.096105158
+17,Photogeneration Action Spectroscopy of Neutral and Charged Excitations in Films of a Ladder-Type Poly(Para-Phenylene),0,35,0,19,16,22,0.767887652,0.936576128,0.577116489,0.123791084,0.359459639
+18,Charge State Dependence of the Energy Loss of Slow Ions in Metals,0,20,0,12,8,21,0.792559206,0.913310647,0.628499568,0.10472589,0.28481108
+19,Vibrationally SelectedO+?O+Fragmentation ofO2below the Adiabatic Double-Ionization Potential Studied via Electron-Electron Coincidence Spectroscopy,0,15,0,5,10,24,0.7905882,0.903453767,0.568589211,0.108480044,0.334864557
+20,Are Vicinal Metal Surfaces Stable?,0,24,2,8,14,29,0.657716632,0.808743596,0.534092188,0.097732298,0.274651408
+21,Evidence for Oscillation of Atmospheric Neutrinos,1,26,0,6,20,25,0.715066135,0.911904693,0.543073773,0.124537684,0.368830919
+22,Enhancement of Surface Hardness: Boron on Diamond (111),0,15,0,11,4,20,0.777664363,0.881849289,0.566604555,0.084979348,0.315244734
+23,Solution of the X-Ray Edge Problem for 2D Electrons in a Magnetic Field,0,19,0,7,12,22,0.793012798,0.881338358,0.53721559,0.082347676,0.344122767
+24,Quasiatomic Fine Structure and Selection Rules in Quantum Dots,0,10,0,3,7,11,0.826387763,0.920296073,0.594653726,0.102023192,0.325642347
+25,Efficient Intersubband Scattering via Carrier-Carrier Interaction in Quantum Wells,0,17,0,5,12,16,0.827615738,0.929711461,0.632153392,0.08104156,0.297558069
+26,Ultraviolet Photon Emission Observed in the Search for the Decay of the229ThIsomer,0,13,0,5,8,5,0.667175114,0.852772236,0.540557504,0.144100845,0.312214732
+27,Suppression and Enhancement of Collisions in Optical Lattices,0,31,1,13,17,16,0.788166285,0.870373845,0.597892106,0.087342687,0.27248174
+28,Nonequilibrium Equality for Free Energy Differences,1,17,0,2,15,17,0.746727407,0.855412722,0.514939606,0.096546248,0.340473115
+29,Controlled Atom by Atom Restructuring of a Metal Surface with the Scanning Tunneling Microscope,0,22,0,8,14,19,0.769655406,0.910426021,0.565468669,0.102515146,0.344957352
+30,Analytic Stability Theory for Faraday Waves and the Observation of the Harmonic Surface Response,0,16,0,3,13,10,0.805362344,0.905564785,0.621532977,0.101037815,0.284031808
+31,Observation of Spherical Focus in an Electron Penning Trap,0,12,0,2,10,4,0.814445734,0.88215661,0.759322643,0.043941375,0.122833967
+32,"Evidence for “Magnetic Rotation” in Nuclei: Lifetimes of States in theM1 bands of198,199Pb",0,13,0,10,3,13,0.685345709,0.885067046,0.530050874,0.105465576,0.355016172
+33,Collective Excitations of a Bose-Einstein Condensate in a Dilute Gas,1,21,0,13,8,10,0.817334533,0.920512557,0.418908566,0.138346687,0.501603991
+34,Enhanced High-Harmonic Generation Using 25 fs Laser Pulses,0,16,0,5,11,15,0.861002386,0.928017497,0.782078862,0.042991392,0.145938635
+35,Observation of a Magnetic-Field-Induced Transition in the Behavior of Extremely Shallow Quantum Well Excitons,0,27,0,12,15,19,0.789777398,0.911295772,0.665973425,0.055066969,0.245322347
+36,Bose-Einstein Condensation in a Gas of Sodium Atoms,1,32,0,7,25,15,0.779275954,0.892521977,0.536680818,0.110605299,0.35584116
+37,Dynamical Theory of the Pearling Instability in Cylindrical Vesicles,0,37,1,19,17,25,0.741965055,0.890232444,0.546253204,0.116852812,0.343979239
+38,Theoretical bcc?fcc Transitions in Metals via Bifurcations under Uniaxial Load,0,18,0,3,15,18,0.780136526,0.84760493,0.610172927,0.052663803,0.237432003
+39,Eversus k Relations and Many Body Effects in the Model Insulating Copper OxideSr2CuO2Cl2,0,25,0,13,12,20,0.824278474,0.917730093,0.56144172,0.091604888,0.356288373
+40,Evidence for top quark production in pˉp collisions at √s =1.8 TeV,1,47,0,24,23,9,0.651398003,0.966214478,0.54096055,0.137917534,0.425253928
+41,"Spectroscopic signature of non-Maxwellian and nonstationary effects in plasmas heated by intense, ultrashort laser pulses",0,18,0,4,14,26,0.82696259,0.890753984,0.718647838,0.038472641,0.172106147
+42,"Intensity of electron channeling radiation, and occupation lengths in diamond crystals",0,20,0,13,7,15,0.661720514,0.855263472,0.508050621,0.118899725,0.347212851
+43,Lattice dynamics and dielectric properties ofSiO2stishovite,0,20,0,12,8,18,0.750437021,0.856687009,0.581079364,0.092520505,0.275607646
+44,Laterally Squeezed Excitonic Wave Function in Quantum Wires,0,15,0,8,7,15,0.817673564,0.918460786,0.554556549,0.095575601,0.363904238
+45,Dynamics of Glasslike Transitions in a Quasi-Two-Dimensional System,0,11,0,3,8,7,0.832253993,0.872651696,0.807176054,0.02438215,0.065475643
+46,Anisotropy of SiKβEmission: Interference of Fluorescence X Rays,0,17,0,7,10,17,0.76914376,0.887644768,0.552697539,0.118156701,0.334947228
+47,Absence ofM3 Quenching in26Mg,0,9,0,1,8,9,0.647372484,0.792656779,0.510322332,0.103345171,0.282334447
+48,Search for Jet Handedness in HadronicZ0Decays,0,18,1,12,5,17,0.67756784,0.847103477,0.476925999,0.120697193,0.370177478
+49,Observation of the Top Quark,1,16,0,10,6,8,0.673862994,0.886361361,0.518012345,0.158890262,0.368349016
+50,A Chaotic Pulsating Star: The Case of R Scuti,0,23,0,6,17,11,0.703791082,0.845340848,0.569579244,0.106914423,0.275761604
+51,Evidence for the Spin Polarization of Copper in Co/Cu and Fe/Cu Multilayers,0,20,0,3,17,23,0.776400387,0.893274665,0.598938704,0.099089161,0.294335961
+52,Driven Depinning in Anisotropic Media,0,25,0,8,17,23,0.807065785,0.903867602,0.568017423,0.066298731,0.335850179
+53,Vortex Viscosity in Superconductors with Short Coherence Length,0,16,0,3,13,14,0.771046102,0.863372564,0.616271675,0.078990929,0.24710089
+54,Maximum Overheating and Partial Wetting of Nonmelting Solid Surfaces,0,19,0,12,7,32,0.689250112,0.881723285,0.467849046,0.127301991,0.413874239
+55,Teleporting an unknown quantum state via dual classical and Einstein-Podolsky-Rosen channels,1,10,0,1,9,15,0.758934796,0.879523575,0.555193305,0.090408921,0.32433027
+56,"Scattering by a one-dimensional rough surface, and surface profile reconstruction by confocal imaging",0,11,0,3,8,14,0.709566772,0.875495017,0.545381129,0.115439758,0.330113888
+57,Nonlinear optics of Bessel beams,0,12,0,0,12,10,0.778295219,0.867898941,0.6175313,0.08414378,0.250367641
+58,Effects of intramolecular dynamics on nuclear fusion rates and sticking from resonant states of the molecular iondtμ,0,8,0,1,7,13,0.816133499,0.899313986,0.631280303,0.066812873,0.268033683
+59,"Fractional quantum Hall liquid, Wigner solid phase boundary at finite density and magnetic field",0,10,0,2,8,13,0.816280603,0.874942362,0.749656796,0.034455471,0.125285566
+60,Copernican crystallography,0,18,0,4,14,5,0.658907712,0.774192274,0.547256887,0.086991563,0.226935387
+61,Analytic model for a ballistic deposition process,0,11,0,2,9,18,0.762542069,0.859756708,0.611202359,0.084814847,0.248554349
+62,Diffusion propagator as a probe of the structure of porous media,0,13,0,6,7,12,0.742169797,0.849402547,0.57281208,0.107751295,0.276590466
+63,Spatial solitons in photorefractive media,0,12,0,5,7,10,0.791258633,0.910340846,0.609115899,0.113072619,0.301224947
+64,Band Dispersion of Localized Valence States in LiF(100),0,23,0,7,16,22,0.795559108,0.869160771,0.569637418,0.09175434,0.299523354
+65,Reversibility and noise sensitivity of Josephson arrays,0,3,0,0,3,9,0.854536355,0.911090016,0.764111459,0.050499436,0.146978557
+66,Theory of Bloch delocalization and quantum diffusion of heavy particles in insulators,0,6,1,4,1,12,0.777440488,0.88997829,0.547258496,0.103070997,0.342719793
+67,Asymptotic behavior of particle deposition,0,2,0,1,1,9,0.770674884,0.879734337,0.56961602,0.100455433,0.310118318
+68,Nitrogen and potentialn-type dopants in diamond,0,18,0,11,7,27,0.794839859,0.900222242,0.583094954,0.07769905,0.317127287
+69,Potential drops supported by ion-density cavities in the dynamic response of a plasma diode to an applied field,0,2,0,2,0,8,0.801241875,0.888407052,0.584053338,0.09336666,0.304353714
+70,X-ray lasing by optical-field-induced ionization,0,15,0,4,11,14,0.747424245,0.879090428,0.563559413,0.08831647,0.315531015
+71,Quantum cryptography without Bell’s theorem,1,7,0,2,5,10,0.744973183,0.933367848,0.567346334,0.105024591,0.366021514
+72,Lagrangian spin-wave theory of frustrated antiferromagnets: Application toABX3compounds,0,30,0,22,8,16,0.825447321,0.950250089,0.568600953,0.08010827,0.381649137
+73,Precise optical Lamb shift measurements in atomic hydrogen,0,22,0,13,9,21,0.761405408,0.866532624,0.569762707,0.114395715,0.296769917
+74,Can a noninvasive measurement of magnetic flux be performed with superconducting circuits?,0,15,0,5,10,9,0.740688324,0.841873109,0.586247861,0.101019382,0.255625248
+75,Direct observation of dissipative flux motion and pinning by twin boundaries in YBa_{2}Cu_{3}O_{7-δ} single crystals,0,7,0,2,5,12,0.706311285,0.807916045,0.559082747,0.07511846,0.248833299
+76,Observation of polymerlike phase separation of protein-surfactant complexes in solution,0,4,1,1,2,16,0.766783834,0.896377802,0.515342236,0.116954498,0.381035566
+77,Synchrotron-radiation-excited soft-x-ray-fluorescence studies of Cu and Zn: On the validity of the sudden approximation,0,13,0,0,13,17,0.824383557,0.871122777,0.623941839,0.053157531,0.247180939
+78,Controlling chaos,1,12,0,2,10,11,0.754990995,0.847803652,0.638430536,0.058527406,0.209373116
+79,rf generation of stable high bootstrap current equilibria,0,6,0,2,4,13,0.787275016,0.840743005,0.601117373,0.061954673,0.239625633
+80,Search for nonminimal neutral Higgs bosons fromZ-boson decays,0,16,0,8,8,17,0.631273329,0.850509107,0.489407778,0.113865145,0.361101329
+81,Measurements of charged-particle inclusive distributions in hadronic decays of theZboson,0,7,0,6,1,23,0.714380682,0.937470198,0.537132382,0.127537474,0.400337815
+82,Photonic band structure: The face-centered-cubic case,1,6,0,0,6,4,0.793639779,0.845151782,0.751886189,0.033629123,0.093265593
+83,Subplantation model for film growth from hyperthermal species: Application to diamond,0,17,0,6,11,15,0.694976151,0.824520707,0.593762279,0.090828046,0.230758429
+84,Neutron reflectivity studies of the surface-induced ordering of diblock copolymer films,0,2,0,0,2,13,0.758457422,0.858284473,0.650794804,0.056889653,0.207489669
+85,Atomic correlations and intermediate-range order in molten and amorphousGeSe2,0,3,1,2,0,14,0.698041975,0.862707973,0.557777047,0.10686066,0.304930925
+86,Ununifying the standard model,0,1,0,1,0,3,0.736626804,0.788867176,0.696449995,0.038681455,0.092417181
+87,Corrections to the Fermi Matrix Element for SuperallowedβDecay,0,15,0,13,2,21,0.698178828,0.90901041,0.584412336,0.1071181,0.324598074
+88,Conserving Approximations for Strongly Correlated Electron Systems: Bethe-Salpeter Equation and Dynamics for the Two-Dimensional Hubbard Model,0,12,0,3,9,15,0.735228717,0.859491944,0.545993745,0.10241352,0.313498199
+89,Photonic band structure: The face-centered-cubic case employing nonspherical atoms,1,22,0,5,17,13,0.822477639,0.949820042,0.757406592,0.054308981,0.192413449
+90,Does the Harris energy functional possess a local maximum at the ground-state density?,0,17,0,3,14,9,0.830023944,0.868393421,0.775444627,0.028639337,0.092948794
+91,Observation of Atoms Laser Cooled below the Doppler Limit,1,11,0,5,6,14,0.788107812,0.879047155,0.501279473,0.102209941,0.377767682
+92,Absence of Selection in Directional Solidification,0,17,1,4,12,24,0.762986004,0.855403841,0.541051507,0.077057108,0.314352334
+93,Lower Critical Dimension for Populations of Oscillators with Randomly Distributed Frequencies: A Renormalization-Group Analysis,0,15,0,5,10,19,0.733718872,0.871478736,0.532695651,0.116806529,0.338783085
+94,Theory of the Raman Response in Fibonacci Superlattices,0,11,0,2,9,10,0.806868374,0.87589395,0.594503284,0.07813172,0.281390667
+95,Basis for a Characteristic Temperature in Nuclear Fragmentation,0,9,0,2,7,6,0.733340323,0.845710993,0.568343401,0.105873182,0.277367592
+96,Lyapunov spectrum of a model of two-dimensional turbulence,0,6,0,2,4,8,0.811640859,0.891437769,0.62247318,0.10079401,0.268964589
+97,Relaxation in Self-Similar Hierarchical Spaces,0,6,0,2,4,13,0.742659926,0.817465067,0.568977177,0.066349447,0.24848789
+98,Porod scattering from fractal surfaces,0,8,2,3,3,3,0.735405266,0.751409531,0.722674966,0.011957072,0.028734565
+99,"Metals physics at ultrahigh pressure: Aluminum, copper, and lead as prototypes",0,13,0,5,8,19,0.775373161,0.88319993,0.590015888,0.084623262,0.293184042
+100,Picosecond Photoinduced Absorption as a Probe of Metastable Light-Induced Defects in Intrinsic Hydrogenated Amorphous Silicon,0,11,1,4,6,16,0.821366429,0.933832645,0.587407172,0.111338899,0.346425474
+101,Giant Magnetoresistance of (001)Fe/(001)Cr Magnetic Superlattices,1,5,0,0,5,14,0.804260135,0.913988829,0.557005882,0.097237304,0.356982946
+102,Dissociative recombination of electrons withH2+in low vibrational states,0,8,0,4,4,17,0.814734161,0.91448772,0.562561393,0.087223671,0.351926327
+103,‘‘Extended’’ electronic states in a Fibonacci superlattice,0,9,0,5,4,3,0.773924649,0.823821843,0.722190142,0.041511305,0.101631701
+104,Diffusing wave spectroscopy,0,4,0,1,3,13,0.776976943,0.849823534,0.551653802,0.089263529,0.298169732
+105,Commensurate states on incommensurate lattices,0,8,0,0,8,13,0.771587074,0.81789887,0.712665558,0.030666428,0.105233312
+106,Particle-physics model for Voloshin-Vysotsky-Okun solution to the solar-neutrino problem,0,11,0,2,9,17,0.703884959,0.848488569,0.557304502,0.103156909,0.291184068
+107,Localization and anomalous diffusion of a damped quantum particle,0,13,0,2,11,8,0.755695343,0.879036605,0.589870214,0.114108615,0.289166391
+108,Experimental evidence for granular superconductivity in Y-Ba-Cu-O at 100 to 160 K,0,5,0,1,4,7,0.835641563,0.917892694,0.73981601,0.063241921,0.178076684
+109,Si→SiO2transformation: Interfacial structure and mechanism,0,2,0,0,2,7,0.695482373,0.800484896,0.55160284,0.085544385,0.248882055
+110,Numerical analysis of accelerated stochastic algorithms near a critical temperature,0,7,0,1,6,2,0.720038295,0.793228328,0.646848261,0.073190033,0.146380067
+111,Observation of a neutrino burst in coincidence with supernova 1987A in the Large Magellanic Cloud,1,5,0,0,5,6,0.721855581,0.859896958,0.586944878,0.110565163,0.27295208
+112,Search for an intermediate-range interaction,0,35,19,0,16,6,0.664313972,0.717388272,0.497297466,0.077323608,0.220090806
+113,Asymmetric line shapes for weak transitions in strong standing-wave fields,0,8,0,3,5,5,0.762073994,0.892663598,0.601345539,0.0929574,0.291318059
+114,Finite-PTcontribution to relativistic Coulomb excitation: A possible explanation for the clean-fission puzzle,0,4,1,2,1,11,0.698476255,0.837834716,0.564139783,0.08646401,0.273694932
+115,Fermi-liquid theory of interacting disordered systems and the scaling theory of the metal-insulator transition,0,18,0,2,16,11,0.761766613,0.867718697,0.600780427,0.085400537,0.266938269
+116,Superconductivity at 93 K in a new mixed-phase Y-Ba-Cu-O compound system at ambient pressure,1,6,0,0,6,8,0.764862239,0.877369583,0.612025619,0.113938615,0.265343964
+117,Pion-reabsorption effect on pion spectra in high-energy heavy-ion collisions,0,17,2,8,7,19,0.766880572,0.913591266,0.57353878,0.114101581,0.340052485
+118,Resistance in Metallic Rings,0,10,1,3,6,8,0.677034676,0.813344777,0.516698837,0.091834277,0.296645939
+119,Four-dimensional eikonal theory of linear mode conversion,0,3,1,0,2,3,0.717161,0.740618587,0.681868792,0.02540249,0.058749795
+120,Direct energy transfer in restricted geometries as a probe of the pore morphology of silica,0,9,0,2,7,15,0.735244811,0.87537241,0.585526943,0.110171229,0.289845467
+121,Atomic Force Microscope,1,7,0,0,7,19,0.683654606,0.882388592,0.523875058,0.10834305,0.358513534
+122,Laser Implosion of High-Aspect-Ratio Targets Produces Thermonuclear Neutron Yields Exceeding1012by Use of Shock Multiplexing,0,6,0,0,6,12,0.764336586,0.824284315,0.590605497,0.065334365,0.233678818
+123,Stability Analysis of a Dense Hard-Sphere Fluid Subjected to Large Shear—Shear-Induced Ordering,0,16,0,6,10,19,0.754115403,0.889126718,0.555942476,0.117630683,0.333184242
+124,Periodic Splay-Twist Fréedericksz Transition in Nematic Liquid Crystals,0,10,0,2,8,3,0.60601902,0.634595573,0.553717613,0.037035692,0.08087796
+125,Swendsen Responds,0,3,0,0,3,3,0.496608406,0.536837757,0.42755273,0.049051143,0.109285027
+126,Dynamics of NO Molecular-Beam Scattering from a Ge Surface,0,9,0,4,5,20,0.68085444,0.848672628,0.523328006,0.117367476,0.325344622
+127,Three-dimensional viscous confinement and cooling of atoms by resonance radiation pressure,1,13,0,3,10,16,0.733448446,0.834288597,0.489647627,0.115248531,0.34464097
+128,Reversible Amorphization in Laser-Quenched Titanium Alloys,0,6,1,1,4,8,0.704363346,0.855196774,0.571485162,0.107231721,0.283711612
+129,"Uncertainty, Entropy, and the Statistical Mechanics of Microscopic Systems",0,22,0,5,17,8,0.70048511,0.838766098,0.53288883,0.114605911,0.305877268
+130,Experimental observation of a codimension-two bifurcation in a binary fluid mixture,0,4,1,2,1,17,0.764317393,0.891515613,0.547204852,0.095561773,0.34431076
+131,Continuous-Wave Two-Photon Spectroscopy of the1S?2STransition in Hydrogen,0,10,1,2,7,10,0.720883191,0.867246211,0.552594662,0.110125639,0.314651549
+132,Rate Expression Incorporating Interaction between Reactants: Application to the Zero-Order Desorption Spectra,0,8,0,4,4,16,0.649469495,0.869271219,0.538191915,0.090455361,0.331079304
+133,Correlated Motions in Glasses Studied by Coherent Inelastic Neutron Scattering,0,12,0,3,9,11,0.754716456,0.850114465,0.59540087,0.076401249,0.254713595
+134,QCD at largeNc—Skyrme or the bag?,0,6,1,2,3,12,0.723720074,0.820192814,0.534379423,0.102990441,0.285813391
+135,Metallic Phase with Long-Range Orientational Order and No Translational Symmetry,1,3,0,0,3,19,0.706764579,0.882129371,0.527111292,0.119051002,0.355018079
+136,Low-Energy Parametrization of Scattering Observables inn-Dimensional Quantum Systems,0,13,0,1,12,13,0.735679746,0.850707889,0.597045422,0.107293278,0.253662467
+137,Strongly Coupled Nonneutral Ion Plasma,0,5,0,4,1,22,0.73970896,0.866655409,0.448729604,0.109851822,0.417925805
+138,Relativistically Enhanced Ionization Rates at Stark-Effect Level Crossings in Hydrogen,0,19,0,1,18,17,0.780489028,0.859238982,0.59419167,0.06630639,0.265047312
+139,Measurement of thep?pElastic-Scattering Spin ParameterCLLat 11.75 GeV/cforθc.m.=48°?90°,0,6,0,4,2,12,0.687877238,0.858178854,0.553392708,0.101893574,0.304786146
+140,Evidence for a SecondF35Pion-Nucleon Resonance near 2000 MeV,0,11,0,0,11,8,0.74328357,0.841063201,0.592396855,0.102248222,0.248666346
+141,Anomalous Quantum Hall Effect: An Incompressible Quantum Fluid with Fractionally Charged Excitations,1,13,0,3,10,8,0.785287738,0.852983952,0.569798112,0.08720915,0.28318584
+142,Observation of Magnetically Induced Optical Self-Pulsing in a Fabry-Perot Resonator,0,18,0,6,12,7,0.706846535,0.85837245,0.614094913,0.089946426,0.244277537
+143,Thermal Expansion of AmorphousPd0.775Si0.165Cu0.06,0,6,0,4,2,9,0.708455801,0.924907446,0.557839394,0.103055581,0.367068052
+144,Role of the Phonon in the Quantum-Chromodynamical Plasma,0,10,0,0,10,8,0.704015911,0.836175144,0.594799161,0.090046652,0.241375983
+145,Two-Dimensional Magnetotransport in the Extreme Quantum Limit,1,9,3,0,6,27,0.732209802,0.873762965,0.482242078,0.102801166,0.391520888
+146,Interference Effects between Different Optical Harmonics,0,5,0,0,5,9,0.785508811,0.83824873,0.610333145,0.064831674,0.227915585
+147,Transitions between Sublevels of theJ=2Collective Mode inHe3-B,0,4,0,2,2,11,0.757108271,0.877599299,0.591960311,0.101953335,0.285638988
+148,Production of Negative Pions with 183-MeV/Nucleon Ne Beams,0,10,0,4,6,16,0.757477224,0.911945581,0.598224282,0.106832318,0.313721299
+149,First- and Second-Order Phase Transitions in thed=2XYModel,0,9,0,2,7,12,0.831365168,0.876508832,0.762303591,0.029408403,0.114205241
+150,Effective Mass of the Normal Negative-Charge Carrier in Bulk He II,0,26,0,6,20,12,0.784727752,0.864834964,0.617482901,0.077394836,0.247352064
+151,Magnetic Spectra and Electron Transport of Current-Carrying Plasmas,0,50,2,22,26,18,0.795322657,0.900114357,0.606413662,0.101020902,0.293700695
+152,Exciton and Pair Recombination at Intimate Valence-Alternation Pairs ina-As2S3,0,18,0,0,18,13,0.75082773,0.859727502,0.618051231,0.094454445,0.241676271
+153,MacKinnon and Kramer Respond,0,10,0,0,10,3,0.678864479,0.771888375,0.61310643,0.067628868,0.158781946
+154,Low-Temperature Equation of State of Molecular Hydrogen and Deuterium to 0.37 Mbar: Implications for Metallic Hydrogen,0,17,1,7,9,15,0.741043866,0.892614067,0.575564146,0.112855725,0.317049921
+155,Surface Studies by Scanning Tunneling Microscopy,1,21,0,0,21,10,0.659621835,0.777939081,0.529135346,0.096854925,0.248803735
+156,Character of the Ferromagnetic Transition in Fe and Ni,0,9,0,4,5,27,0.783977807,0.903427124,0.579323649,0.110386983,0.324103475
+157,Difference between Polarization and Analyzing Power for 800-MeVn?pElastic Scattering: Test of Time-Reversal Invariance,0,13,0,4,9,32,0.761902452,0.866949797,0.540890157,0.096491031,0.326059639
+158,"Dominance of Atomic States in a Solid: Selective Breakdown of the Virtual Crystal Approximation in a Semiconductor Alloy,Hg1?xCdxTe",0,12,0,1,11,7,0.720546365,0.840293944,0.590252578,0.110749856,0.250041366
+159,Molecular Phases in a Lattice-Gas Model,0,2,0,0,2,2,0.717603803,0.796653032,0.638554513,0.079049259,0.158098519
+160,Ti NMR Study of the Nearly Ferromagnetic System TiBe2,0,6,0,4,2,15,0.753359914,0.883421481,0.611647904,0.095720842,0.271773577
+161,Dimuon Scaling Comparison at 44 and 62 GeV,0,10,1,5,4,10,0.741336048,0.908468366,0.575170279,0.122598127,0.333298087
+162,Experimental Tests of Realistic Local Theories via Bell's Theorem,1,17,0,5,12,20,0.744737804,0.868369818,0.514812112,0.105079785,0.353557706
+163,Frustrated Spin-Gas Model for Doubly Reentrant Liquid Crystals,0,7,0,5,2,11,0.795211256,0.85257566,0.639625549,0.070774436,0.21295011
+164,Measurement of the Branching of?(2S)→π+π?+?(1S),0,15,0,11,4,9,0.803794324,0.885267913,0.634401202,0.074010767,0.250866711
+165,Experimental Evidence for Phase Separation of a Two-Component Electron-Hole Liquid in〈111〉-Stressed Ge,0,8,1,3,4,8,0.778434396,0.898341298,0.610382438,0.112542622,0.28795886
+166,Resonant Electron Transfer in Ionic Fluorine Compounds Following1s2pIonization,0,14,0,10,4,12,0.727862537,0.835757673,0.431462139,0.126422644,0.404295534
+167,Experimental Realization of Einstein-Podolsky-Rosen-Bohm Gedankenexperiment: A New Violation of Bell's Inequalities,1,2,0,0,2,11,0.729805708,0.864712715,0.577862084,0.098337866,0.286850631
+168,Molecular Dynamics of a Laser-Annealing Experiment,0,7,1,2,4,6,0.810295105,0.854949832,0.782571614,0.02589545,0.072378218
+169,Effect of Fluctuations of Magnetization on the Bound Magnetic Polaron: Comparison with Experiment,0,3,0,3,0,7,0.762448967,0.905254245,0.596989751,0.107439935,0.308264494
+170,Laser Enhancement of NuclearβDecay,0,10,0,5,5,1,0.864378512,0.864378512,0.864378512,0,0
+171,Influence of Lower-Hybrid Heating on Tokamak Plasma Stability,0,9,0,3,6,9,0.815462649,0.878876269,0.601261973,0.080025479,0.277614295
+172,Alignment Effects in Correlation Spectra,0,8,0,0,8,8,0.740311265,0.828723192,0.606835365,0.082206562,0.221887827
+173,Experimental Test of Bell's Inequalities Using Time- Varying Analyzers,1,22,1,3,18,10,0.733913302,0.84572649,0.531970739,0.106155343,0.313755751
+174,Subthreshold Pion Production in Heavy-Ion Collisions at85AMeV,0,8,0,4,4,13,0.759438813,0.8845613,0.576841056,0.107304178,0.307720244
+175,Dynamic Monte Carlo Simulation of an Entangled Many-Polymer System,0,8,0,1,7,15,0.783085227,0.886222124,0.598378241,0.091458149,0.287843883
+176,Spin Correlation forppElastic Scattering atθc.m.=π2in the Energy Region of Dibaryon Resonances,0,18,0,12,6,26,0.728454173,0.900390625,0.590889812,0.113938406,0.309500813
+177,Simulation of Gravitational Superclustering of Massive Neutrinos,0,2,1,0,1,22,0.714344919,0.843342543,0.414016187,0.119280621,0.429326355
+178,Calculation of theΓ?ΔElectron-Phonon and Hole-Phonon Scattering Matrix Elements in Silicon,0,10,0,6,4,12,0.781178236,0.886091232,0.582260013,0.117057808,0.30383122
+179,Synchrotron X-Ray Diffraction Study of Silicon during Pulsed-Laser Annealing,0,5,0,4,1,6,0.859138072,0.926708281,0.766735017,0.050716002,0.159973264
+180,Band Center—A Conserved Quantity in Solids,0,2,0,1,1,12,0.743195474,0.856869042,0.496144086,0.119347155,0.360724956
+181,New Method for High-Accuracy Determination of the Fine-Structure Constant Based on Quantized Hall Resistance,1,14,0,1,13,12,0.696571648,0.863620102,0.557455957,0.124640457,0.306164145
+182,Simple Theory for Conductivity and Hall Mobility in Disordered Systems,0,10,0,3,7,10,0.767499566,0.870648563,0.618844509,0.095431738,0.251804054
+183,Experimental Test of Theoretical Models for Urbach's Rule at Excitonic Absorption Edges,0,7,0,3,4,16,0.749138713,0.895186663,0.554243922,0.12355496,0.34094274
+184,Extended Appearance-Potential Fine-Structure Analysis: Oxygen on Al(100),0,13,0,3,10,17,0.714695871,0.873361647,0.565425396,0.100077063,0.307936251
+185,Scaling of Ablative Laser-Fusion Implosions,0,6,0,2,4,8,0.838780999,0.933561563,0.73146069,0.054726575,0.202100873
+186,Effect of Hydrostatic Pressure on the Magnetic Susceptibility of a Ag: Mn Spin-Glass,0,9,0,6,3,23,0.749604702,0.867646813,0.560174048,0.104987271,0.307472765
+187,Neutron Scattering Study of Spin Dynamics in CsCoCl3,0,33,0,3,30,10,0.795287311,0.886852205,0.609722495,0.070032567,0.27712971
+188,Statics and Thermodynamics of Strongly Coupled Multicomponent Plasmas,0,4,0,0,4,7,0.781113207,0.85503912,0.626094162,0.091449924,0.228944957
+189,Theory of Two-Dimensional Melting,1,16,0,3,13,7,0.811003029,0.856231987,0.743713319,0.039322298,0.112518668
+190,Direct Observation of Elastic and Inelastic Photon Scattering by the Giant Dipole Resonance inNi60,0,5,0,2,3,13,0.820158541,0.925520957,0.657401383,0.085416108,0.268119574
+191,Yet More Complexity in Fission: Barriers for Nuclei withN=150?154,0,5,0,0,5,10,0.704609275,0.82482475,0.580673158,0.092681967,0.244151592
+192,Selective-Adsorption-Induced Intensity Maxima inHe4/LiF Scattering,0,11,0,6,5,10,0.703806221,0.857221425,0.614335299,0.094028659,0.242886126
+193,Light-Scattering Study of Two-Dimensional Molecular-Orientation Fluctuations in a Freely Suspended Ferroelectric Liquid-Crystal Film,0,16,0,0,16,8,0.808778942,0.862532258,0.754229307,0.030777944,0.108302951
+194,Measurement of Dielectronic Recombination Rates for the Iron Ions Fe IX-XI,0,8,0,3,5,7,0.792773545,0.870121002,0.619238377,0.096535563,0.250882626
+195,Anomalous Conductivity of Quench-Condensed Sodium-Ammonia Films,0,4,0,1,3,13,0.713352084,0.841346622,0.551498652,0.095621109,0.28984797
+196,"Short-Range, High-Momentum Effects in the ReactionO16(γ, p0)forEγ=100?300MeV",0,2,0,1,1,3,0.602032423,0.605966568,0.599725366,0.002795677,0.006241202
+197,Series Study of a Spin-Glass Model in Continuous Dimensionality,0,6,0,3,3,7,0.775068104,0.880447865,0.547109067,0.122282967,0.333338797
+198,Current Instability and Domain Propagation Due to Bragg Scattering,0,5,0,1,4,12,0.75486064,0.844278753,0.543090701,0.103002228,0.301188052
+199,Detection of Anisotropy in the Cosmic Blackbody Radiation,1,13,0,4,9,8,0.69370997,0.810069203,0.579362631,0.099219486,0.230706573
+200,Absence of Inertial Induction in General Relativity,0,23,0,4,19,4,0.809021831,0.831003726,0.776407182,0.02240116,0.054596543
+201,Nuclear Shape Staggering in Very Neutron-Deficient Hg Isotopes Detected by Laser Spectroscopy,0,7,0,5,2,25,0.589937449,0.823186398,0.45940119,0.113794856,0.363785207
+202,Hydrogen Surface Contamination and the Storage of Ultracold Neutrons,0,6,0,5,1,10,0.730282545,0.853406787,0.586219907,0.104278624,0.26718688
+203,Universal Fragment-Momentum Distribution in High-Energy Nucleus-Nucleus Collisions,0,6,0,5,1,8,0.842844248,0.892468512,0.671094954,0.068613037,0.221373558
+204,Zero-Temperature Spin Dynamics of Model Spin-Glass Hamiltonians,0,12,0,6,6,11,0.764096022,0.900365233,0.517965615,0.130995616,0.382399619
+205,Surface-Ripple Mechanism for Brillouin Scattering of Reflected Light from Bulk Acoustic Waves,0,25,0,4,21,13,0.780738831,0.867097735,0.623545587,0.091228135,0.243552148
+206,Observation of Stimulated Emission of Radiation by Relativistic Electrons in a Spatially Periodic Transverse Magnetic Field,1,15,0,1,14,9,0.837002337,0.901487887,0.792488813,0.033219609,0.108999074
+207,Operator Identity and Applications to Models of Interacting Electrons,0,10,0,2,8,9,0.769534528,0.86443305,0.597834289,0.08202675,0.266598761
+208,Phase Velocity of High-Frequency Phonons in Glass below 1 K,0,6,0,4,2,12,0.750750721,0.913469374,0.586215019,0.120778613,0.327254355
+209,Laser Compression Studies with Neon-Filled Glass Microballoons,0,9,0,2,7,12,0.802221715,0.865505576,0.606134832,0.069578461,0.259370744
+210,He(3P3)States Excited in 1.5- and 3.0-keVHe+-H2Charge-Transfer Collisions,0,6,0,4,2,4,0.794167221,0.862121403,0.758271873,0.042030353,0.10384953
+211,Critical Exponents for the Three-Dimensional Ising Model from the Real-Space Renormalization Group in Two Dimensions,0,14,1,3,10,19,0.750176191,0.858970046,0.608172357,0.088131994,0.250797689
+212,Threshold Production of Positive Pions and the Form of theπNNVertex,0,8,0,3,5,25,0.702153325,0.860081792,0.520888627,0.099471182,0.339193165
+213,Destructive Interference of Imaginary Resonant Contributions toχ(3),0,6,1,1,4,13,0.747400165,0.802454472,0.535100222,0.066706456,0.26735425
+214,First Operation of a Free-Electron Laser,1,3,0,0,3,7,0.694382846,0.792050183,0.407319784,0.126330763,0.384730399
+215,Self-Steepening of the Density Profile of a CO2-Laser-Produced Plasma,0,4,0,2,2,11,0.754661202,0.806300104,0.519025624,0.0780131,0.28727448
+216,Nucleation of SolidHe4Interfaces between Grafoil and High-Pressure LiquidHe4,0,19,0,6,13,11,0.712844789,0.845865905,0.571395993,0.104643993,0.274469912
+217,Dependence of Laser-Driven Compression Efficiency on Wavelength,0,11,0,4,7,2,0.805769503,0.845948339,0.765590668,0.040178835,0.080357671
+218,Evidence for Anomalous Lepton Production in e+?e? Annihilation,1,2,1,0,1,8,0.64467597,0.868431091,0.32749474,0.183409423,0.540936351
+219,Neutron-Scattering Study of Transitions to Convection and Turbulence in Nematic Para-azoxyanisole,0,21,0,0,21,13,0.763846338,0.834154606,0.602817535,0.075084127,0.23133707
+220,Search for MonenergeticγRays fromψ(3684)Decay,0,4,0,4,0,6,0.794361591,0.810863256,0.782753706,0.011473301,0.02810955
+221,Intensity and Linewidth of Rayleigh Scattering near the Double Plait Point of the System Ne-Kr,0,7,0,2,5,6,0.71387434,0.840779781,0.553743482,0.102927282,0.2870363
+222,"Determination ofgJ(He4, 2S13)gJ(H1, 1S122): Resolution of a Discrepancy",0,21,2,13,6,11,0.724788129,0.827961922,0.571630836,0.085397251,0.256331086
+223,"E2?E4Interference for (α, α′) Reactions",0,5,1,2,2,4,0.69392097,0.749788761,0.580065131,0.067460001,0.16972363
+224,Experimental Evidence for a New Interpretation of Local-Moment Resonances in Metals,0,11,0,2,9,5,0.879658222,0.946417451,0.848858118,0.036031481,0.097559333
+225,Experimental Observation of a Heavy Particle J,1,7,0,0,7,7,0.787668228,0.987498164,0.720099688,0.086524844,0.267398477
+226,Effect of Plasma Inhomogeneity on the Production of Energetic Electrons,0,3,0,0,3,5,0.868550122,0.905716896,0.838875175,0.026593219,0.066841722
+227,Magnetic Form Factor of ^{3}He,0,11,0,9,2,8,0.713726401,0.804822803,0.52820313,0.099238947,0.276619673
+228,Absolute Conduction- and Valence-Band Positions for Ge from an Anisotropic Model of Photoemission,0,20,0,2,18,9,0.812864423,0.878113508,0.619336426,0.07636863,0.258777082
+229,Analytic Calculation to all Orders inZαof Nuclear Size Effects in Vacuum Polarization,0,16,1,3,12,10,0.744534016,0.836754084,0.600368857,0.089337528,0.236385226
+230,"Pentapyridinium 18-Silver Iodide, a ""Two-Dimensional"" Solid Electrolyte",0,22,0,2,20,8,0.6899966,0.776828408,0.509347796,0.10513591,0.267480612
+231,Discovery of a Narrow Resonance in e+e? Annihilation,1,4,0,0,4,2,0.699894667,0.712406039,0.687383294,0.012511373,0.025022745
+232,Delayed-Neutron Spectra Following Decay ofAs85andSb135,0,21,0,8,13,10,0.679511726,0.891776681,0.540864527,0.118653134,0.350912154
+233,Anomalous Small-Angle Magnetic Scattering from Amorphous TbFe2and YFe2,0,11,0,3,8,4,0.601557851,0.764422417,0.470349759,0.124491446,0.294072658
+234,Effect of Stress on High-Field Magnetoresistance Anisotropy Due to Open Orbits in Iron,0,17,0,2,15,9,0.803847134,0.90617764,0.753293037,0.0435583,0.152884603
+235,Energy Distribution of Slow Positrons Diffusing from Incompleted-Shell Transition Metals,0,9,0,2,7,5,0.781896114,0.859810174,0.637299776,0.083227083,0.222510397
+236,Yang's Gravitational Field Equations,0,11,0,3,8,3,0.636513233,0.790598392,0.501392961,0.118826754,0.289205432
+237,Elastic and Inelastic Electron Scattering at 20 and 60 eV from Atomic Cu,0,15,1,5,9,8,0.669812083,0.804634333,0.495875716,0.101099715,0.308758616
+238,Ultraviolet Behavior of Non-Abelian Gauge Theories,1,22,0,2,20,11,0.770711184,0.882960856,0.633031845,0.063048705,0.249929011
+239,Effect of Side-Scatter Instabilities on the Propagation of an Intense Laser Beam in an Inhomogeneous Plasma,0,2,0,1,1,4,0.835260749,0.864264309,0.787237167,0.028960748,0.077027142
+240,Phase Transitions in a Fluid of Biaxial Particles,0,11,0,0,11,7,0.809724689,0.895614386,0.766208768,0.039126609,0.129405618
+241,Phenomenological Hamiltonian in the Theory of SuperfluidHe4,0,21,0,4,17,10,0.768077254,0.845179856,0.636431754,0.076653592,0.208748102
+242,"Persistence of theC12+O16→Si28Resonance in the ReactionC13(O16,O17)C12",0,10,0,1,9,2,0.845553279,0.858085036,0.833021462,0.012531787,0.025063574
+243,Reliable Perturbative Results for Strong Interactions?,1,24,0,4,20,10,0.7477988,0.874492168,0.579925358,0.109166607,0.29456681
+244,Thomas-Fermi Theory Revisited,0,32,3,0,29,12,0.674151957,0.818683386,0.521841407,0.090786546,0.296841979
+245,Surface Waves of an Electron-Hole Plasma in a Uniform Magnetic Field,0,11,0,5,6,4,0.781668663,0.855554581,0.635299087,0.085900158,0.220255494
+246,Intermediate Structure in Isospin-Forbidden Reactions,0,5,0,4,1,6,0.678810179,0.862297237,0.558946788,0.105210327,0.303350449
+247,Critical Acoustic Relaxation in EuO,0,13,0,9,4,13,0.79166007,0.884468138,0.573610961,0.080458522,0.310857177
+248,Method for Solving the Sine-Gordon Equation,0,4,0,2,2,9,0.731138706,0.892748237,0.556036592,0.127208874,0.336711645
+249,Detection of NMR Using a Josephson-Junction Magnetometer,0,11,0,2,9,2,0.642208695,0.754774809,0.529642582,0.112566113,0.225132227
+250,Tunneling into a High -TcSuperconductor-Nb3Sn,0,23,0,7,16,16,0.637244701,0.798827052,0.481725037,0.107610449,0.317102015
+251,Feynman-Graph Expansion for Critical Exponents,1,19,0,4,15,5,0.730789483,0.813182116,0.532857001,0.102486573,0.280325115
+252,Frequency Response of Stimulated Thermal Scattering,0,11,1,1,9,7,0.765079319,0.894230247,0.666622281,0.074650578,0.227607965
+253,Chemi-ionization in Collisions between Helium Metastable Atoms and Argon,0,21,0,7,14,13,0.803620756,0.916749537,0.603740931,0.098019034,0.313008606
+254,Mercury's Perihelion Advance: Determination by Radar,0,4,0,1,3,5,0.764510334,0.844346642,0.653575659,0.063631766,0.190770984
+255,Observation of Interference Effects in the M?ssbauer Absorption Spectra ofE2andE2M1Transitions,0,7,0,4,3,14,0.693211257,0.862535298,0.525062621,0.111113332,0.337472677
+256,Differential Cross Sections for Small-Angle Neutron-Proton and Neutron-Nucleus Elastic Scattering at 4.8GeVc,0,12,0,10,2,15,0.694542587,0.895651937,0.595682919,0.10970743,0.299969018
+257,Evidence for a New Phase of Solid He3,1,18,0,5,13,9,0.711307704,0.862586439,0.446094602,0.127959967,0.416491836
+258,High-Order Wave Mixing in Beam-Plasma Instabilities,0,19,0,0,19,3,0.830735385,0.849554718,0.809204459,0.016584123,0.040350258
+259,One-Dimensional Superconductors,0,10,0,3,7,11,0.750617564,0.891162872,0.609693944,0.092626482,0.281468928
+260,Effect of Nuclear Mass on the Bound-ElectrongFactor,0,76,4,23,49,9,0.726783335,0.875889778,0.595169723,0.102105498,0.280720055
+261,Linear Magnetoresistance and Anisotropic Quantum Fluctuations,0,5,0,2,3,15,0.781367004,0.890504897,0.570821404,0.089822099,0.319683492
+262,Moment of Inertia ofDy158from Excitation of the Ground-State Band to Spin 22,0,7,0,2,5,6,0.679211855,0.829433203,0.549219906,0.116121992,0.280213296
+263,New Magnetic Phenomena in Liquid He3 below 3 mK,1,14,0,1,13,5,0.776983738,0.862494469,0.626082957,0.096744232,0.236411512
+264,Radiative Pion Capture byC12,0,10,1,4,5,18,0.744126737,0.882624805,0.56629312,0.090100907,0.316331685
+265,Parametric Instabilities and Anomalous Heating of Plasmas near the Lower Hybrid Frequency,0,7,0,2,5,11,0.847262323,0.922859311,0.766226292,0.05117657,0.156633019
+266,Sound Absorption and Dispersion along the Critical Isochore in Xenon,0,22,0,15,7,11,0.82104975,0.898657501,0.717588902,0.056223582,0.181068599
+267,Thermal Conductivity of Niobium in Magnetic Fields NearHc2,0,14,0,10,4,12,0.755548239,0.875803649,0.531600595,0.118383773,0.344203055
+268,Uniqueness of the Vacuum Energy Density and van Hove Phenomenon in the Infinite-Volume Limit for Two-Dimensional Self-Coupled Bose Fields,0,11,0,4,7,6,0.643557608,0.7751863,0.5903157,0.063117117,0.184870601
+269,Photoemission Spectroscopy in the Presence of Adsorbate-Covered Surfaces,0,11,0,1,10,6,0.74370122,0.8729828,0.64870584,0.072492637,0.22427696
+270,Coexistence Curve of Sulfur Hexafluoride,0,5,0,4,1,4,0.539631188,0.705477297,0.470337868,0.096562341,0.23513943
+271,Measurements of Enhanced Absorption of Electromagnetic Waves and Effective Collision Frequency Due to Parametric Decay Instability,0,19,0,4,15,19,0.746423781,0.832348347,0.556319356,0.069012187,0.276028991
+272,Interpretation of Recent Results on He3 below 3 mK: A New Liquid Phase?,1,22,0,5,17,7,0.813177288,0.894287229,0.635585487,0.080259159,0.258701742
+273,"Strong, Quasiperiodic Dependence of Autoionization Shape Parameters on Projectile Energy inH++ He Collisions",0,7,0,2,5,19,0.779662192,0.88274771,0.631929278,0.087267719,0.250818431
+274,"Limits on the Magnetic Moments of Doubly Odd4N+2Nuclei withT=0,Jπ=1+",0,6,0,3,3,5,0.567082822,0.788836002,0.483000398,0.112530313,0.305835605
+275,Observation of a Single Crystal of Vortex Lines in a Type-II Superconductor,0,5,0,3,2,7,0.617724478,0.823412299,0.511229753,0.089717396,0.312182546
+276,Single-Particle Effects on Fission Probabilities for the Lighter Elements,0,12,0,8,4,13,0.706701159,0.857465982,0.592770457,0.097553723,0.264695525
+277,Hall Effect of Silver Ions in RbAg4I5Single Crystals,0,6,0,3,3,12,0.696233809,0.85091722,0.488255471,0.12298882,0.362661749
+278,"Spin-Wave Resonance Fields, Linewidths, and Intensities of a Permalloy Film: Theory and Experiment",0,5,0,2,3,8,0.77221781,0.895576179,0.60005188,0.10107892,0.295524299
+279,Eight-Vertex Model in Lattice Statistics,1,8,0,2,6,6,0.742503405,0.813877523,0.528917849,0.100470275,0.284959674
+280,Core Structure of a Quantized Vortex,0,5,1,1,3,9,0.775069892,0.87588346,0.584946811,0.082509048,0.290936649
+281,Alignment of Atoms and Ions with the Beam-Foil Light Source,0,6,0,5,1,12,0.734878957,0.851027012,0.515937746,0.120812215,0.335089266
+282,Infrared-Induced Dispersal of Hole Traps in AgBr,0,14,0,6,8,3,0.731014431,0.831371486,0.626826704,0.083548978,0.204544783
+283,Acceleration and Trapping of Particles by Radiation Pressure,1,6,0,2,4,5,0.647559106,0.851796389,0.495977759,0.117485739,0.355818629
+284,Phonon Interference in Thin Films of Liquid Helium,0,10,0,1,9,7,0.747463226,0.831357658,0.587626636,0.082852535,0.243731022
+285,Evidence for an Isotensor Electromagnetic Current,0,12,0,2,10,9,0.6161502,0.735860586,0.515821874,0.088912308,0.220038712
+286,Observation of Optical Nutation in an Active Medium,0,2,0,1,1,5,0.75797677,0.825616479,0.615017354,0.081941232,0.210599124
+287,Experimental Observation of Nonlinear Landau Damping of Plasma Waves in a Magnetic Field,0,7,0,5,2,6,0.821985722,0.890986025,0.63563925,0.089381143,0.255346775
+288,Magnetic Bundles in Reacting Flowing Plasma,0,17,0,0,17,4,0.82478261,0.851667285,0.782235146,0.028615646,0.069432139
+289,Indirect Spin Interactions in SolidHe3,0,7,0,4,3,9,0.775672674,0.895811081,0.653822899,0.074415721,0.241988182
+290,Experimental Study of Small-Scale Filaments of Light in Liquids,0,4,0,2,2,18,0.790618479,0.892900586,0.635229826,0.064767785,0.25767076
+291,High-Energy Inelastic e?p Scattering at 6° and 10°,1,10,0,0,10,10,0.742248774,0.8552953,0.551858604,0.115017928,0.303436697
+292,Thermal Fluctuations and the Josephson Supercurrent,0,19,0,12,7,14,0.775542915,0.928543985,0.624804258,0.111549161,0.303739727
+293,"An Anomaly in the Analyzing Power ofZr90(d,p0)Zr91",0,18,0,4,14,9,0.608452618,0.653653324,0.557178676,0.029361939,0.096474648
+294,Evidence for Discovery of Chemically Bound Neutrons,0,7,0,1,6,8,0.690132022,0.831832886,0.540204704,0.0983954,0.291628182
+295,Soft Librational Mode Detection Via Nuclear Quadrupole Resonance,0,7,0,2,5,9,0.67760551,0.802336276,0.54984206,0.085195974,0.252494216
+296,Capillary Flow of Cholesteric and Smectic Liquid Crystals,0,21,0,5,16,7,0.717579067,0.856914103,0.581929505,0.113338478,0.274984598
+297,Omega Production inπ+d→π+π?π0ppat 4.19 GeV/c,0,7,0,0,7,2,0.544136107,0.613142073,0.475130141,0.069005966,0.138011932
+298,Ion-Impact Excitation of Pure Vibrational Transitions in Diatomic Molecules,0,6,0,4,2,9,0.834536791,0.881900907,0.80298388,0.027970977,0.078917027
+299,Observed Behavior of Highly Inelastic Electron-Proton Scattering,1,11,0,1,10,17,0.789698243,0.895762503,0.626471579,0.064946964,0.269290924
+300,"Measurement of the Anomaly at theLII,IIIEdge of Sodium",0,4,0,3,1,9,0.740622282,0.830705643,0.498011887,0.114861429,0.332693756
+301,"Two-Dimensional ""Ferromagnetism"" In Iron",0,9,0,5,4,3,0.759666443,0.82834971,0.701383591,0.052352805,0.126966119
+302,Parametric Representation of the Equation of State Near A Critical Point,0,5,0,2,3,4,0.874467611,0.916406155,0.803598285,0.044427726,0.11280787
+303,Parametric Conversion of X Rays,0,21,0,7,14,9,0.696456909,0.833501577,0.522887707,0.106831439,0.310613871
+304,An Observable Peculiarity of the Brans-Dicke Radiation Zone,0,4,0,2,2,11,0.805814743,0.884991467,0.770237625,0.029038422,0.114753842
+305,Criteria for Ferromagnetism in Dense Neutron Fermi Liquids-Neutron Stars,0,14,0,0,14,5,0.706332088,0.796268821,0.566832781,0.08455611,0.22943604
+306,Search for Neutrinos from the Sun,1,12,0,2,10,13,0.666624606,0.794288754,0.500100434,0.096647732,0.294188321
+307,H(2p)Excitation Resonances in (e?H) System Near Threshold,0,19,1,6,12,11,0.773409307,0.886395991,0.58880806,0.102522045,0.297587931
+308,Misuses of the Finite-Energy Sum Rules,0,12,0,3,9,9,0.809932411,0.881296933,0.729794741,0.047504768,0.151502192
+309,Suppression of a Two-Stream Interaction in a Beam-Plasma System by External ac Electric Fields,0,9,1,1,7,5,0.723021209,0.773869693,0.649158418,0.043353871,0.124711275
+310,Proper Motion of Local Quasistellar Objects and the Distances of 3C273 and 3C287,0,27,0,8,19,13,0.65841639,0.772653103,0.497577399,0.079354189,0.275075704
+311,Three-Body Forces in Nuclear Matter,0,10,0,3,7,9,0.784485519,0.911105394,0.582249343,0.103401482,0.328856051
+312,Neutron Scattering from Liquid Helium at High Energies,0,8,0,2,6,3,0.793038785,0.896301806,0.726090312,0.074081257,0.170211494
+313,"Parity Doubling, Asymmetric Fermion Trajectories, and Low-EnergyπNDynamics",0,17,0,1,16,8,0.709235787,0.825820506,0.574697256,0.096840814,0.25112325
+314,A Model of Leptons,1,15,0,0,15,16,0.669156134,0.778896689,0.446480423,0.091813602,0.332416266
+315,Electromagnetic Excitation of Transverse Microwave Phonons in Metals,0,9,0,2,7,7,0.668805063,0.808309019,0.505713344,0.109192386,0.302595675
+316,Electron Transport Coefficients in Gaseous Parahydrogen,0,4,1,2,1,10,0.789964199,0.842257082,0.65961659,0.056926996,0.182640493
+317,Nonorthogonality of the Long- and Short-Lived Neutral Kaon States and Phenomenological Analysis of Experiments onCPNonconservation inK0Decay,0,13,0,2,11,9,0.738764822,0.875000834,0.59464401,0.101373643,0.280356824
+318,Strong-Coupling Superconductivity in Gallium,0,3,0,2,1,7,0.625549018,0.757857144,0.407440305,0.112823822,0.350416839
+319,Optical Third-Harmonic Generation in Gases,0,11,0,0,11,6,0.766327381,0.815335095,0.713787198,0.035920218,0.101547897
+320,Three-Phonon Process and the Propagation of Sound in Liquid Helium-4,0,47,0,0,47,6,0.737509251,0.831883907,0.658584356,0.067941509,0.173299551
+321,Absence of Ferromagnetism or Antiferromagnetism in One- or Two-Dimensional Isotropic Heisenberg Models,1,13,0,2,11,9,0.686016679,0.889435709,0.47413528,0.151468083,0.415300429
+322,High-Energy Proton-Nucleus Scattering at Small Angles,0,5,1,1,3,8,0.638355136,0.826616228,0.502187908,0.114865199,0.32442832
+323,Further Discussion of a Fundamental Theorem in Quantum Optics,0,7,0,1,6,7,0.662780225,0.70956552,0.571401596,0.047578,0.138163924
+324,Experimental Observation ofM1andE2Hyperfine Structure in the MuonicKANDLX Rays of Bismuth,0,13,0,7,6,10,0.660071671,0.764385462,0.543923199,0.082518138,0.220462263
+325,Onset of Long-Range Order in a Critical Solution of Macromolecules,0,5,0,1,4,8,0.736762524,0.816454768,0.636692584,0.075127438,0.179762185
+326,Classification of theY1*(1765)ANDY0*(1520)Resonances in the1134Representation of SU(6),0,9,0,4,5,16,0.709351122,0.881351352,0.548086226,0.112218507,0.333265126
+327,Decay Modes ofO16Giant Resonance States,0,4,0,0,4,4,0.579600096,0.655384779,0.473857015,0.065993026,0.181527764
+328,Strain AlongcAxis of SbSI Caused by Illumination in dc Electric Field,0,6,0,2,4,5,0.775528193,0.926132023,0.602501273,0.13746801,0.32363075
+329,Antiproton-Proton Collision in the Unitary Symmetry Model,0,26,0,15,11,15,0.652273774,0.802567661,0.55111742,0.082968622,0.251450241
+330,Do Hyperphotons Exist?,0,24,0,0,24,12,0.585027754,0.685841918,0.474049151,0.082165256,0.211792767
+331,Stability of Magnetic Wells at Finite Plasma Pressure,0,7,1,3,3,5,0.750941753,0.938771844,0.596435308,0.147894934,0.342336535
+332,Broken Symmetry and the Mass of Gauge Vector Mesons,1,19,0,0,19,8,0.759935856,0.804771245,0.670133233,0.042669706,0.134638011
+333,Y=2States in Su(6) Theory,0,10,0,5,5,6,0.613107145,0.696335852,0.515919805,0.073268764,0.180416048
+334,Fourth Test of General Relativity,0,5,0,0,5,3,0.643901885,0.736425042,0.532309115,0.084413916,0.204115927
+335,Broken Symmetries and the Masses of Gauge Bosons,1,13,0,0,13,8,0.765277267,0.883479118,0.631478906,0.096875533,0.252000213
+336,Observation of a Hyperon with Strangeness Minus Three,0,6,0,2,4,9,0.678058922,0.818742394,0.481664717,0.102173015,0.337077677
+337,Electrostatic Instabilities Near Cyclotron Frequency in a Plasma with Anisotropic Velocity Distribution,0,6,1,1,4,7,0.789640069,0.833107233,0.728051484,0.034429654,0.105055749
+338,Electron Scattering by Neutralized Acceptors in Germanium,0,8,0,0,8,7,0.605748832,0.644639075,0.521394074,0.037956201,0.123245001
+339,Analysis of Combination Tones in a Short Gas Laser,0,4,0,3,1,2,0.779510319,0.931667447,0.627353191,0.152157128,0.304314256
+340,Solution of the Classical Electromagnetic Self-Energy Problem,0,9,0,0,9,2,0.664414108,0.737432957,0.591395259,0.073018849,0.146037698
+341,Evolution of the Solar System and the Expansion of the Universe,0,13,1,1,11,9,0.707393229,0.786198616,0.581442893,0.06707447,0.204755723
+342,Broken Symmetries and Weak Interactions,0,14,0,2,12,5,0.730254173,0.890076458,0.62178731,0.116998076,0.268289149
+343,Nuclear Optical Model for Virtual Pions,0,8,1,4,3,6,0.712663114,0.944566071,0.603732169,0.144941434,0.340833902
+344,Photon Correlations,1,23,0,2,21,7,0.642586112,0.778624594,0.516391397,0.08826112,0.262233198
+345,Theory of Scattering with Large Momentum Transfer,0,10,0,4,6,3,0.765325308,0.833616316,0.663282394,0.073520079,0.170333922
+346,"Observation of ""Anticrossings"" in Optical Resonance Fluorescence",0,9,0,1,8,3,0.690581501,0.783991337,0.542951882,0.105608828,0.241039455
+347,Observation of Persistent Current in a Superconducting Solenoid,0,12,0,4,8,5,0.731137216,0.876536191,0.549054861,0.129065886,0.327481329
+348,Electronic Raman Effect inPr3+Ions in Single Crystals of PrCl3,0,3,0,1,2,4,0.691595554,0.898637056,0.587968946,0.121469475,0.310668111
+349,Investigation of Plasma Confinement in a Toroidal Theta-Pinch withM+S-Like Configurations,0,3,0,2,1,2,0.533049464,0.581748486,0.484350383,0.048699051,0.097398102
+350,Investigation ofY*andYˉ*Production in Reactions of the Typepˉ+p→Y+Yˉ+π,0,8,0,1,7,4,0.728372812,0.847741008,0.607441068,0.088989951,0.24029994
+351,Very High-Energy Cosmic Rays,0,5,0,3,2,6,0.664310396,0.912511885,0.52802825,0.118234538,0.384483635
+352,Observation of High-Energy Neutrino Reactions and the Existence of Two Kinds of Neutrinos,1,12,0,0,12,24,0.716612339,0.861114979,0.440602422,0.093460105,0.420512557
+353,Temperature of the Transition to the Superconducting State,0,14,0,5,9,12,0.658019602,0.943625569,0.481533825,0.15148899,0.462091744
+354,Observation of Radiative Capture of Negative Muons in Iron,0,12,0,1,11,11,0.751555622,0.854439139,0.608886778,0.083972372,0.245552361
+355,Progressive Rotation of Cosmic-Ray Diurnal Variation Vector,0,2,0,0,2,3,0.700541019,0.791860223,0.612325907,0.073327437,0.179534316
+356,Binding Energy of the Triton,0,11,2,3,6,14,0.738376081,0.979074597,0.549148262,0.125396803,0.429926336
+357,K+?pScattering; the Phenomenology of a Repulsive Interaction,0,14,0,3,11,4,0.704758048,0.78467989,0.582771301,0.074609824,0.201908588
+358,Spiral Spin Configurations Accompanying Exchange Inversion,0,2,0,1,1,5,0.664698243,0.882656515,0.558156312,0.11278636,0.324500203
+359,3π0Toπ+π?π0Branching Ratio of a0?+ηMeson,0,33,0,2,31,13,0.774549723,0.936377108,0.510350347,0.170601875,0.426026762
+360,Elastic Nucleon-Nucleon Scattering at High Energies and Small Angles,0,9,0,2,7,8,0.844160318,0.906117439,0.730684638,0.056382827,0.175432801
+361,Rare Decay Modes of theω (η)Meson,0,10,0,3,7,18,0.653219163,0.924704313,0.533079088,0.133611321,0.391625226
+362,Present Experimental Evidence for a Fermi Interaction in Muon Capture,0,4,0,0,4,7,0.762313187,0.859548211,0.645961106,0.066858031,0.213587105
+363,Coherent Light Emission From GaAs Junctions,1,1,0,1,0,1,0.702080369,0.702080369,0.702080369,0,0
+364,Properties and Effects ofζDecays,0,10,0,0,10,8,0.582036853,0.862791717,0.428206623,0.120738298,0.434585094
+365,Quantum Numbers of theηMeson,0,23,0,1,22,10,0.713615298,0.968266368,0.498243958,0.189297214,0.47002241
+366,Infrared Absorption Spectrum of Sulfur-Doped Silicon,0,10,0,0,10,1,0.907879353,0.907879353,0.907879353,0,0
+367,Generation of Optical Harmonics,1,2,0,0,2,3,0.699460328,0.815901637,0.616619229,0.084754936,0.199282408
+368,One-Pion Exchange inp?pCollisions at 2 Bev,0,6,0,4,2,7,0.845535159,0.883182287,0.763510644,0.039622646,0.119671643
+369,Scattering of 915-MevαParticles from Carbon and Helium: Direct Evidence forα-Particle Clustering in Nuclei,0,1,0,0,1,1,0.592462778,0.592462778,0.592462778,0,0
+370,Superconductors as Quantum Detectors for Microwave and Sub-Millimeter-Wave Radiation,0,5,0,4,1,11,0.645570338,0.886671185,0.524102807,0.139390469,0.362568378
+371,Observation of the Magnetically Induced Magnetoelectric Effect and Evidence for Antiferromagnetic Domains,0,7,0,5,2,5,0.627662659,0.774893641,0.525195718,0.086914867,0.249697924
+372,Inelastic Electron-Deuteron Scattering and the Electromagnetic Structure of the Neutron,0,36,1,23,12,18,0.803007841,0.910910845,0.604340672,0.092852391,0.306570172
+373,Topology of the Fermi Surface of Copper,0,6,0,3,3,2,0.579390049,0.623022616,0.535757542,0.043632537,0.087265074
+374,Experimental Evidence for Quantized Flux in Superconducting Cylinders,1,19,0,2,17,4,0.785954833,0.964216709,0.592239976,0.13620232,0.371976733
+375,Two-Parameter Approximation toS-Wave Scattering,0,6,0,3,3,5,0.680105984,0.75543797,0.541068494,0.072904795,0.214369476
+376,Nuclear Magnetic Resonance ofCr53in Antiferromagnetic CrCl3,0,1,0,0,1,8,0.750238538,0.845579088,0.595053971,0.075741,0.250525117
+377,Search for theω0in Photoproduction,0,6,0,4,2,6,0.69965291,0.844123244,0.55846864,0.112004474,0.285654604
+378,Superconducting Characteristics of Superimposed Metal Films,0,3,0,1,2,7,0.70550406,0.922686815,0.59729135,0.12743552,0.325395465
+379,Absence of Antiferromagnetic Domain Walls in MnF2,0,2,0,0,2,5,0.667623639,0.760426521,0.509608924,0.103975758,0.250817597
+380,Electric-Field-Induced Modulation of the Absorption Due to Interband Transitions of Free Holes in Germanium,0,2,0,1,1,4,0.769702196,0.95525825,0.59864521,0.166766956,0.35661304
+381,Theoretical Considerations Concerning Quantized Magnetic Flux in Superconducting Cylinders,1,6,0,1,5,4,0.816518068,0.964216709,0.703405619,0.094414175,0.26081109
+382,Superconductivity ofNb3Sn in a Pulsed Magnetic Field,0,4,0,1,3,3,0.692117035,0.787929475,0.639643073,0.067852154,0.148286402
+383,Magnetic Shielding Constants in Heteropolar Diatomic Molecules,0,6,0,3,3,10,0.697297096,0.918761194,0.560344279,0.129436642,0.358416915
+384,Example of the DecayΛ0→p+μ?+νˉ,0,4,0,1,3,1,0.745067179,0.745067179,0.745067179,0,0
+385,Deuteron Electric Quadrupole Moment,0,6,1,1,4,7,0.644035876,0.759761631,0.507862091,0.090373881,0.25189954
+386,Origin of theF19Hyperfine Structure in Transition Element Fluorides,0,7,0,2,5,10,0.694063783,0.768614054,0.568412304,0.06659846,0.20020175
+387,"""Corkscrew""—A Device for Changing the Magnetic Moment of Charged Particles in a Magnetic Field",0,8,0,0,8,1,0.733677804,0.733677804,0.733677804,0,0
+388,Apparent Weight of Photons,1,9,0,0,9,8,0.613852382,0.71504128,0.550619602,0.054712728,0.164421678
+389,Excess Properties ofH2-D2Liquid Mixtures,0,5,0,0,5,7,0.686474264,0.737911522,0.604075909,0.039223678,0.133835614
+390,Doppler-Shifted Cyclotron Frequency Radiation from Protons in the Exosphere,0,4,0,0,4,1,0.668791652,0.668791652,0.668791652,0,0
+391,Grazing Collisions of Complex Nuclei,0,8,0,7,1,4,0.828045607,0.885601401,0.767901421,0.041742433,0.117699981
+392,Spin-Lattice Relaxation in Yttrium Iron Garnet,0,2,0,2,0,3,0.657209873,0.76867348,0.586285055,0.079786919,0.182388425
+393,Energy Gap in Superconductors Measured by Electron Tunneling,1,4,0,0,4,1,0.801701784,0.801701784,0.801701784,0,0
+394,Spin-Lattice Relaxation Times in Ruby at 34.6 kMc/sec,0,9,0,0,9,3,0.555217028,0.56703341,0.544728696,0.009154156,0.022304714
+395,Critical field for Superconductivity in Niobium-Tin,0,5,0,2,3,2,0.668893337,0.684592843,0.653193772,0.015699536,0.031399071
+396,Some Applications of the Generalized Unitarity Relation,0,11,0,1,10,12,0.786861241,0.875902772,0.597729206,0.100206859,0.278173566
+397,Resonant Scattering of Antineutrinos,0,5,0,0,5,1,0.959410965,0.959410965,0.959410965,0,0
+398,"Precision Determination of the Hyperfine Structure of the Ground State of Atomic Hydrogen, Deuterium, and Tritium",0,3,0,2,1,5,0.780817449,0.908073962,0.60595715,0.118912548,0.302116811
+399,Effects of Pion-Pion Interaction in Electromagnetic Processes,0,6,0,0,6,2,0.650941968,0.734336615,0.567547381,0.083394617,0.166789234
+400,Self-Diffusion in LiquidHe3,0,5,0,1,4,10,0.713511646,0.831533194,0.544516563,0.104338706,0.28701663
+401,"New ""Break"" in theO16(γ, n)O15Reaction with a New System of Measurement",0,4,0,0,4,6,0.768666804,0.863310218,0.68172127,0.066498704,0.181588948
+402,PVTAnomalies inHe3Near its Melting Curve,0,10,0,1,9,5,0.607256949,0.746268094,0.54069221,0.076058708,0.205575883
+403,Effects of Fast-Neutron Irradiation on Nickel Thin Films,0,3,0,0,3,3,0.770347595,0.821417212,0.717777669,0.042323966,0.103639543
+404,Nuclear Spin Relaxation in SolidHe3,0,7,0,3,4,8,0.739373922,0.860713124,0.580146611,0.099891163,0.280566514
+405,Axial Vector Current Conservation in Weak Interactions,1,6,0,1,5,11,0.730271518,0.821682453,0.600931525,0.082217216,0.220750928
+406,Effect of the Pion-Pion Resonance onK??pScattering,0,11,0,0,11,9,0.745895684,0.876415133,0.639447093,0.091730446,0.23696804
+407,Variation of Secondary Electron Emission of Single Crystals with Angle of Incidence,0,9,0,0,9,2,0.933972836,0.952542543,0.915403187,0.018569678,0.037139356
+408,RParameter inp?pScattering at 142 MeV,0,8,0,3,5,2,0.672567368,0.699626505,0.645508289,0.027059108,0.054118216
+409,Plasma Trapping in Cusped Geometries,0,14,0,1,13,2,0.768600702,0.780647159,0.756554246,0.012046456,0.024092913
+410,Stable Confinement of A High-Temperature Plasma,0,8,0,4,4,7,0.706326902,0.8404392,0.522587776,0.100342393,0.317851424
+411,Lattice Vibrations in Silicon and Germanium,1,39,0,11,28,7,0.705728054,0.888829768,0.548053324,0.102443323,0.340776443
+412,Second Resonance in Pion Photoproduction,0,3,0,0,3,4,0.725053608,0.88054496,0.552552104,0.120982796,0.327992857
+413,Precise Determination of the Muon Magnetic Moment,0,5,0,5,0,7,0.770606995,0.879055262,0.628375053,0.093836732,0.250680208
+414,Electron Spin Resonance of Acceptor States in Diamond,0,3,0,1,2,1,0.920546651,0.920546651,0.920546651,0,0
+415,Exchange Scattering in Superconductors,0,14,0,3,11,4,0.76953572,0.955699205,0.558698714,0.141127154,0.397000492
+416,Bardeen-Cooper-Schrieffer Theory of Superconductivity in the Case of Overlapping Bands,0,8,1,3,4,2,0.628679156,0.707133889,0.550224423,0.078454733,0.156909466
+417,Atomic Motions in Water by Scattering of Cold Neutrons,0,10,0,8,2,5,0.786298394,0.8997401,0.516059995,0.138965279,0.383680105
+418,Calculation of Partition Functions,1,6,1,4,1,5,0.746493757,0.770013154,0.726224899,0.01813307,0.043788254
+419,Effects of 9.2-kMc/sec Ultrasonics on Electron Spin Resonances in Quartz,0,4,0,0,4,7,0.652124524,0.911962092,0.50612694,0.164830878,0.405835152
+420,Theory of SolidHe3,0,17,0,6,11,2,0.919607043,0.936537623,0.902676523,0.01693055,0.033861101
+421,Oxides Which Show a Metal-to-Insulator Transition at the Neel Temperature,0,11,0,0,11,2,0.750544548,0.923894346,0.577194691,0.173349828,0.346699655
+422,γ5-Invariance and Strong Interactions,0,20,0,3,17,11,0.708672583,0.927220523,0.569978356,0.143796891,0.357242167
+423,Oxygen-20,0,6,0,0,6,3,0.633446634,0.836725593,0.519402564,0.14409633,0.317323029
+424,Stored Energy of Irradiated Copper,0,24,0,0,24,5,0.763864279,0.803038836,0.727959514,0.024904618,0.075079322
+425,Longitudinal Magnetoresistance of Metals in High Fields,0,6,0,1,5,1,0.619693279,0.619693279,0.619693279,0,0
+426,Element No. 102,1,17,0,2,15,3,0.657674015,0.728613913,0.524207592,0.094437495,0.204406321
+427,Behavior of a Two-Level Solid-State Maser,0,2,0,2,0,3,0.806550503,0.959117532,0.572183907,0.168221667,0.386933625
+428,Electron Spin-Lattice Relaxation in Phosphorus-Doped Silicon,0,10,0,6,4,3,0.679032147,0.70877707,0.6349594,0.031793382,0.07381767
+429,Interpretation of The Transverse Magnetoresistance inp-Type Indium Antimonide at Liquid Nitrogen Temperature,0,5,0,4,1,2,0.637111068,0.666440725,0.60778147,0.029329628,0.058659256
+430,Investigation of Time-Reversal Invariance in theβDecay of the Neutron,0,9,0,6,3,2,0.796815038,0.835888326,0.757741809,0.039073259,0.078146517
+431,Range of the Spin-Orbit Force Between Two Protons,0,22,0,6,16,13,0.775052965,0.900411308,0.603260219,0.082760714,0.297151089
+432,Two-Fluid Model of Superconductivity,1,8,0,0,8,3,0.673418283,0.782766819,0.561124802,0.090508938,0.221642017
+433,Photoproduction of Positive Pions from Protons,0,14,0,5,9,5,0.791340888,0.906790912,0.614387035,0.105811559,0.292403877
+434,Hydroxide Absorption Band in Alkali Halide Crystals,0,7,0,1,6,5,0.655658662,0.837649703,0.577191651,0.095541477,0.260458052
+435,Determination of the Hyperfine Structure of Atomic Nitrogen by Optical Orientation,0,5,0,2,3,4,0.729029417,0.861637235,0.638954043,0.090888046,0.222683191
+436,Gamma Transitions in Self-Conjugate Nuclei,0,17,1,1,15,2,0.774310589,0.813682854,0.734938323,0.039372265,0.078744531
+437,Neutron Threshold Measurements Using the Chalk River Tandem Van De Graaff Accelerator,0,8,0,0,8,4,0.632132053,0.674265027,0.583934724,0.039195068,0.090330303
+438,Maser Action in the Region of 60°K,0,15,0,0,15,6,0.589530528,0.673670888,0.505494237,0.063422769,0.168176651
+439,Photoproduction of Single Positive Pions from Hydrogen in the 500-1000 Mev Region,0,2,0,0,2,6,0.729202271,0.856136978,0.611151516,0.089233778,0.244985461
+440,Large-Amplitude Hydromagnetic Waves Above the Ionosphere,0,7,1,0,6,4,0.692519724,0.837276042,0.618488252,0.085086212,0.218787789

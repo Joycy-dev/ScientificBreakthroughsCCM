@@ -1,0 +1,58 @@
+{
+  "run_timestamp_utc": "2026-10-24T02:47:23.545990+00:00",
+  "input_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_data.csv",
+  "input_sha256": "40abe564c0b3ac67b69d3d5bd82213c19721d64e6dc7e4b05c6c395faeb8db82",
+  "field": "Physics",
+  "physics_training_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_train\\physics_fivefold_training.py",
+  "physics_training_script_sha256": "e717f3812217f9e1bf84610c58dae846b19d603c99ac2dd613931b408830a082",
+  "control_core_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_robustness\\reference_count_control.py",
+  "control_core_script_sha256": "689d4bd68fc4467bd67d8a193f03c8a039e69eda92197c77a7b8015fa763b1ae",
+  "main_oof_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_train\\oof_predictions.csv",
+  "main_oof_sha256": "d6b1447621671e60d34048827ce8340827218a113e96f3887477dbe0d1c49640",
+  "output_directory": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\physics\\physics_robustness",
+  "sample_n": 441,
+  "award_n": 63,
+  "control_n": 378,
+  "folds": 5,
+  "random_state": 20260612,
+  "bootstrap_repetitions": 2000,
+  "models": {
+    "M0_count": [
+      "log_num_refs"
+    ],
+    "M1_relevance_count": [
+      "n",
+      "log_num_refs"
+    ],
+    "M2_relevance_heterogeneity_count": [
+      "n",
+      "m",
+      "log_num_refs"
+    ]
+  },
+  "reference_count_transform": "log(1 + num_refs)",
+  "standardization": "StandardScaler fit on n, m, and log_num_refs in each training fold; training-fold parameters applied unchanged to the held-out fold.",
+  "estimator": "Unpenalized binary logistic regression; F1-optimal probability threshold learned on each training fold.",
+  "inference": "Pooled auxiliary Logit using OOF n and standardized predictors, with HC3 robust standard errors.",
+  "software": {
+    "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "pandas": "2.2.2",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "scikit_learn": "1.5.1",
+    "statsmodels": "0.14.2"
+  },
+  "output_files": [
+    "physics_reference_count_input_validation.csv",
+    "physics_reference_count_design_checks.csv",
+    "physics_reference_count_fold_parameters.csv",
+    "physics_reference_count_fold_test_metrics.csv",
+    "physics_reference_count_oof_predictions.csv",
+    "physics_reference_count_overall_metrics.csv",
+    "physics_reference_count_metric_comparison.csv",
+    "physics_reference_count_paired_bootstrap_m2_vs_m1.csv",
+    "physics_reference_count_adjusted_coefficients.csv",
+    "physics_reference_count_adjusted_model_comparison.csv"
+  ]
+}
