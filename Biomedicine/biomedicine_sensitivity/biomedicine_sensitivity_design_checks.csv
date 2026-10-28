@@ -1,0 +1,15 @@
+﻿check,status,details
+baseline_oof_complete,PASS,"rows=405, unique_idx=405"
+all_sensitivity_values_finite,PASS,"n, beta, Delta, and scores checked"
+id_complete_and_unique_within_multiplier,PASS,"multipliers=[0.5, 0.75, 1.0, 1.25, 1.5], rows_per_multiplier={0.5: 405, 0.75: 405, 1.0: 405, 1.25: 405, 1.5: 405}"
+local_idx_retained_not_used_as_key,PASS,duplicate_local_idx_per_multiplier=118; unique audit key is id
+beta_multiplier_applied_exactly,PASS,max_abs_error=0
+baseline_ids_match_main_model,PASS,compared by unique id
+baseline_folds_match_main_model,PASS,compared by id
+baseline_n_reproduces_main_model,PASS,max_abs_difference=8.32667268469e-17
+baseline_beta_reproduces_main_model,PASS,max_abs_difference=1.11022302463e-16
+baseline_delta_reproduces_main_model,PASS,max_abs_difference=2.22044604925e-16
+baseline_threshold_reproduces_main_model,PASS,max_abs_difference=5.55111512313e-17
+baseline_score_reproduces_main_model,PASS,max_abs_difference=2.22044604925e-16
+baseline_predictions_reproduce_main_model,PASS,OOF predictions compared by id
+baseline_metrics_reproduce_main_model,PASS,max_abs_difference=0

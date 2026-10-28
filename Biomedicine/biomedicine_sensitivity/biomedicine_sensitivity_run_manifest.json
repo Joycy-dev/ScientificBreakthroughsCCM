@@ -1,0 +1,51 @@
+{
+  "run_timestamp_utc": "2026-10-24T03:41:01.771489+00:00",
+  "input_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\biomedicine\\biomedicine_data.csv",
+  "input_sha256": "8ffb95a06327dd8405fb2d743c7e4f9a88906fdf0427348318f98c68433c401e",
+  "output_directory": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\biomedicine\\biomedicine_sensitivity",
+  "field": "Biomedicine",
+  "sample_n": 405,
+  "award_n": 77,
+  "control_n": 328,
+  "unique_record_key": "id",
+  "local_source_index": "idx (retained but not used as a key or feature)",
+  "temporary_internal_row_key": "row_id_internal (0-based row number used only because source-local idx repeats)",
+  "folds": 5,
+  "stratification_label": "award",
+  "random_state": 20260612,
+  "beta_multipliers": [
+    0.5,
+    0.75,
+    1.0,
+    1.25,
+    1.5
+  ],
+  "empirical_threshold": "F1-optimal Delta threshold learned independently within each training fold for every beta multiplier.",
+  "theoretical_boundary": "Delta = 0 evaluated separately at beta multiplier 1.0; it is not treated as the empirically learned classification threshold.",
+  "biomedicine_training_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\biomedicine\\biomedicine_train\\biomedicine_fivefold_training.py",
+  "biomedicine_training_script_sha256": "225ed3dd46fe68bd9177d1d49682adef6de74ec047243bf7d6be78484f265719",
+  "ai_sensitivity_core": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_sensitivity\\ai_beta_sensitivity.py",
+  "ai_sensitivity_core_sha256": "ab9a55318c3e824236ac1a20a4c947113f6fba7a5ceee62d358ed5c11107eaee",
+  "main_oof_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\biomedicine\\biomedicine_train\\oof_predictions.csv",
+  "main_oof_sha256": "a88065f3bd53c15e390926589e90bd7990b7f7cdf59a5af15c52eb05de0e8ca8",
+  "analysis_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\biomedicine\\biomedicine_sensitivity\\biomedicine_beta_sensitivity.py",
+  "analysis_script_sha256": "db9e5ffbcf238ffcf81b12595d7421aa89257d40284db853a0ff750a6c911f45",
+  "software": {
+    "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "pandas": "2.2.2",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "scikit_learn": "1.5.1"
+  },
+  "output_files": [
+    "biomedicine_sensitivity_input_validation.csv",
+    "biomedicine_sensitivity_design_checks.csv",
+    "biomedicine_sensitivity_fold_parameters.csv",
+    "biomedicine_sensitivity_fold_test_metrics.csv",
+    "biomedicine_sensitivity_oof_predictions.csv",
+    "biomedicine_sensitivity_overall_metrics.csv",
+    "biomedicine_sensitivity_metric_range_summary.csv",
+    "biomedicine_sensitivity_theoretical_zero_boundary_metrics.csv"
+  ]
+}

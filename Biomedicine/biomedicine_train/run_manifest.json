@@ -1,0 +1,53 @@
+{
+  "run_timestamp_utc": "2026-10-24T03:26:47.334582+00:00",
+  "input_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\biomedicine\\biomedicine_data.csv",
+  "input_sha256": "8ffb95a06327dd8405fb2d743c7e4f9a88906fdf0427348318f98c68433c401e",
+  "output_directory": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\biomedicine\\biomedicine_train",
+  "field": "Biomedicine",
+  "sample_n": 405,
+  "award_n": 77,
+  "control_n": 328,
+  "source_counts": {
+    "lasker": 287,
+    "nobel": 118
+  },
+  "unique_record_key": "id",
+  "local_source_index": "idx (retained but not used as a unique key or feature)",
+  "folds": 5,
+  "stratification_label": "award",
+  "random_state": 20260612,
+  "bootstrap_repetitions": 2000,
+  "training_core": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_train\\ai_fivefold_training.py",
+  "training_core_sha256": "86a02f724841ca09b8ab6f91f9f63e6eb2e0a59c238ddbe03d911e9aa4afaa97",
+  "proportion_definitions": {
+    "P_d": "num_d / num_all",
+    "P_m": "num_m / num_all",
+    "P_s": "num_s / num_all"
+  },
+  "fold_only_parameters": [
+    "weight_d",
+    "weight_m",
+    "weight_s",
+    "beta",
+    "F1-optimal threshold"
+  ],
+  "software": {
+    "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "pandas": "2.2.2",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "scikit_learn": "1.5.1"
+  },
+  "output_files": [
+    "input_validation.csv",
+    "fold_parameters.csv",
+    "fold_test_metrics.csv",
+    "fold_parameter_summary.csv",
+    "oof_predictions.csv",
+    "overall_oof_metrics.csv",
+    "metric_confidence_intervals.csv",
+    "table5_biomedicine_thresholds.csv",
+    "table6_biomedicine_metrics.csv"
+  ]
+}

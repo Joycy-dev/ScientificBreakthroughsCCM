@@ -1,0 +1,36 @@
+{
+  "run_timestamp_utc": "2026-10-24T03:31:27.551732+00:00",
+  "input_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\biomedicine\\biomedicine_data.csv",
+  "input_sha256": "8ffb95a06327dd8405fb2d743c7e4f9a88906fdf0427348318f98c68433c401e",
+  "field": "Biomedicine",
+  "unique_record_key": "id",
+  "sample_n": 405,
+  "award_n": 77,
+  "control_n": 328,
+  "folds": 5,
+  "random_state": 20260612,
+  "bootstrap_repetitions": 2000,
+  "training_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\biomedicine\\biomedicine_train\\biomedicine_fivefold_training.py",
+  "indicator_core_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_robustness\\ai_heterogeneity_robustness.py",
+  "variants": {
+    "range_main": "max_similarity - min_similarity",
+    "std_alternative": "std_similarity"
+  },
+  "output_files": [
+    "biomedicine_indicator_input_validation.csv",
+    "biomedicine_indicator_descriptive_statistics.csv",
+    "biomedicine_indicator_correlations.csv",
+    "biomedicine_indicator_design_checks.csv",
+    "biomedicine_indicator_fold_parameters_range.csv",
+    "biomedicine_indicator_fold_parameters_std.csv",
+    "biomedicine_indicator_fold_parameter_comparison.csv",
+    "biomedicine_indicator_fold_test_metrics_range.csv",
+    "biomedicine_indicator_fold_test_metrics_std.csv",
+    "biomedicine_indicator_oof_predictions_range.csv",
+    "biomedicine_indicator_oof_predictions_std.csv",
+    "biomedicine_indicator_ci_range.csv",
+    "biomedicine_indicator_ci_std.csv",
+    "biomedicine_indicator_metrics_comparison.csv",
+    "biomedicine_indicator_paired_bootstrap.csv"
+  ]
+}

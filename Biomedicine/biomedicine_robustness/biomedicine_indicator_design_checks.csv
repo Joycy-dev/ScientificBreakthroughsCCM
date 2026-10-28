@@ -1,0 +1,11 @@
+﻿check,status,details
+same_oof_row_order,PASS,idx sequences compared
+same_fold_assignment,PASS,fold assignments compared for every sample
+same_weight_d_by_fold,PASS,max_abs_difference=0
+same_weight_m_by_fold,PASS,max_abs_difference=0
+same_weight_s_by_fold,PASS,max_abs_difference=0
+same_id_as_main_model,PASS,compared by id
+same_fold_as_main_model,PASS,compared by id
+same_relevance_as_main_model,PASS,max_abs_difference=8.32667268469e-17
+range_delta_reproduces_main_model,PASS,max_abs_difference=2.22044604925e-16
+range_predictions_reproduce_main_model,PASS,OOF predictions compared by id

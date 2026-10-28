@@ -1,0 +1,406 @@
+﻿id,idx,title,award,num_all,num_d,num_m,num_s,num_refs,mean_similarity,max_similarity,min_similarity,std_similarity,m
+lasker_0,0,FG-rich repeats of nuclear pore proteins form a three-dimensional meshwork with hydrogel-like properties,1,22,0,3,19,24,0.817094862,0.859392881,0.760798931,0.025615852,0.09859395
+lasker_1,1,"When Does ""Economic Man"" Dominate Social Behavior?",0,45,0,11,34,48,0.655318022,0.810351014,0.478924334,0.111976795,0.33142668
+lasker_2,2,Reward Timing in the Primary Visual Cortex,0,18,0,4,14,26,0.81934315,0.933474123,0.596392214,0.085229397,0.337081909
+lasker_3,3,Structure of the Hydrophilic Domain of Respiratory Complex I from Thermus thermophilus,0,27,7,4,16,51,0.83140105,0.917926192,0.575172424,0.071340486,0.342753768
+lasker_4,4,A saturated FG-repeat hydrogel can reproduce the permeability properties of nuclear pore complexes,1,41,0,11,30,42,0.832923234,0.898343444,0.722476482,0.033887498,0.175866961
+lasker_5,5,Trex1 Exonuclease Degrades ssDNA to Prevent Chronic Checkpoint Activation and Autoimmune Disease,0,97,0,24,73,57,0.776340902,0.873737216,0.522964001,0.071259201,0.350773215
+lasker_6,6,NF-κB Is a Negative Regulator of IL-1β Secretion as Revealed by Genetic and Pharmacological Inhibition of IKKβ,0,74,0,17,57,56,0.767301977,0.87382412,0.529073,0.077026621,0.34475112
+lasker_7,7,Circadian Mutant Overtime Reveals F-box Protein FBXL3 Regulation of Cryptochrome and Period Gene Expression,0,63,0,6,57,51,0.819544017,0.90206039,0.644904137,0.05211946,0.257156253
+lasker_8,8,Characterisation of the passive permeability barrier of nuclear pore complexes,1,43,0,12,31,42,0.819360614,0.923754394,0.47855103,0.069223359,0.445203364
+lasker_9,9,Mitochondrial ‘kiss‐and‐run’: interplay between mitochondrial motility and fusion–fission dynamics,0,111,1,32,78,66,0.786275089,0.863605738,0.523318648,0.04904322,0.340287089
+lasker_10,10,Mef2‐mediated transcription of the miR379–410 cluster regulates activity‐dependent dendritogenesis by fine‐tuning Pumilio2 protein levels,0,126,3,18,105,52,0.812164545,0.899943769,0.695731223,0.052653886,0.204212546
+lasker_11,11,ChIP‐Seq of ERα and RNA polymerase II defines genes differentially responding to ligands,0,69,0,19,50,53,0.792666614,0.858030558,0.735250354,0.031205755,0.122780204
+lasker_12,12,Modulation of intracellular ROS levels by TIGAR controls autophagy,0,38,0,14,24,48,0.829537094,0.898786783,0.740943551,0.039097562,0.157843232
+lasker_13,13,The mechano‐activated K+ channels TRAAK and TREK‐1 control both warm and cold perception,0,60,0,8,52,50,0.842411876,0.897948682,0.744175911,0.03431239,0.153772771
+lasker_14,14,TOC1 functions as a molecular switch connecting the circadian clock with plant responses to drought,0,90,0,24,66,66,0.838275671,0.925242782,0.64966774,0.056827292,0.275575042
+lasker_15,15,Raf kinase inhibitory protein suppresses a metastasis signalling cascade involving LIN28 and let‐7,0,39,0,5,34,46,0.7771855,0.860700667,0.633328259,0.049720135,0.227372408
+lasker_16,16,Systematic analysis of barrier-forming FG hydrogels from Xenopus nuclear pore complexes,1,7,0,1,6,81,0.770960927,0.879349887,0.476511121,0.07888598,0.402838767
+lasker_17,17,Molecular basis for SNX‐BAR‐mediated assembly of distinct endosomal sorting tubules,0,68,1,17,50,46,0.80401808,0.902886868,0.607122719,0.069785416,0.295764148
+lasker_18,18,Oxidative stress induces an ATM‐independent senescence pathway through p38 MAPK‐mediated lamin B1 accumulation,0,82,1,33,48,86,0.746883452,0.85438174,0.419369876,0.093818881,0.435011864
+lasker_19,19,Human CST promotes telomere duplex replication and general replication restart after fork stalling,0,53,0,13,40,65,0.839214385,0.908598781,0.692431927,0.048342291,0.216166854
+lasker_20,20,Cell-free formation of RNA granules: bound RNAs identify features and components of cellular assemblies,1,36,0,7,29,242,0.776551425,0.900995851,0.468452305,0.068676174,0.432543546
+lasker_21,21,p53 Opens the Mitochondrial Permeability Transition Pore to Trigger Necrosis,0,55,0,11,44,44,0.826505661,0.907784939,0.704562247,0.047016196,0.203222692
+lasker_22,22,"Young Dentate Granule Cells Mediate Pattern Separation, whereas Old Granule Cells Facilitate Pattern Completion",0,52,0,32,20,59,0.789617836,0.885001481,0.553246915,0.078604043,0.331754565
+lasker_23,23,Cell-free formation of RNA granules: low complexity sequence domains form dynamic fibers within hydrogels,1,34,1,6,27,51,0.793759823,0.900995851,0.574299514,0.061680585,0.326696336
+lasker_24,24,Oncogenic Kras Maintains Pancreatic Tumors through Regulation of Anabolic Glucose Metabolism,0,50,1,9,40,55,0.779470384,0.873460472,0.536347389,0.064896822,0.337113082
+lasker_25,25,EMT and Dissemination Precede Pancreatic Tumor Formation,0,47,1,14,32,52,0.771943927,0.859914899,0.463310987,0.079882942,0.396603912
+lasker_26,26,Three-Dimensional Folding and Functional Organization Principles of the Drosophila Genome,0,53,4,18,31,50,0.841361642,0.939648151,0.717527509,0.048314925,0.222120643
+lasker_27,27,"The LC domain of hnRNPA2 adopts similar conformations in hydrogel polymers, liquid-like droplets, and nuclei",1,61,0,21,40,36,0.798261523,0.893236518,0.477846801,0.085779898,0.415389717
+lasker_28,28,Plasticity of an Ultrafast Interaction between Nucleoporins and Nuclear Transport Receptors,0,52,3,11,38,56,0.823430061,0.884189546,0.709045768,0.040432908,0.175143778
+lasker_29,29,Enhancing Hematopoietic Stem Cell Transplantation Efficacy by Mitigating Oxygen Shock,0,58,0,21,37,84,0.747093439,0.8725034,0.464106917,0.085394487,0.408396482
+lasker_30,30,Neuroinflammatory TNFα Impairs Memory via Astrocyte Signaling,0,78,0,24,54,52,0.798523605,0.920902491,0.56696409,0.058089793,0.353938401
+lasker_31,31,Immunosurveillance of the Liver by Intravascular Effector CD8 + T Cells,0,104,1,67,36,48,0.794353187,0.862685919,0.681943774,0.040053703,0.180742145
+lasker_32,32,Bending Gradients: How the Intestinal Stem Cell Gets Its Home,0,46,0,24,22,50,0.757021964,0.897940457,0.430577636,0.121442579,0.467362821
+lasker_33,33,Microbiome Influences Prenatal and Adult Microglia in a Sex-Specific Manner,0,92,0,50,42,82,0.787293017,0.866939545,0.688611805,0.04228935,0.178327739
+lasker_34,34,The Centrosome Is a Selective Condensate that Nucleates Microtubules by Concentrating Tubulin,0,45,1,10,34,70,0.828612208,0.90316695,0.603993714,0.048235759,0.299173236
+lasker_35,35,The Cohesin Release Factor WAPL Restricts Chromatin Loop Extension,0,116,0,52,64,77,0.818169653,0.928310573,0.709025741,0.054428589,0.219284832
+lasker_36,36,Terabit-Scale Orbital Angular Momentum Mode Division Multiplexing in Fibers,0,13,0,6,7,19,0.769060135,0.860653639,0.447621524,0.093576707,0.413032115
+lasker_37,37,Terahertz Metamaterials for Linear Polarization Conversion and Anomalous Refraction,0,21,2,7,12,37,0.765592515,0.888774097,0.410588473,0.125503391,0.478185624
+lasker_38,38,"The Microbial Metabolites, Short-Chain Fatty Acids, Regulate Colonic T reg Cell Homeostasis",0,28,0,6,22,28,0.823022664,0.887356639,0.744855225,0.042404603,0.142501414
+lasker_39,39,Cation Intercalation and High Volumetric Capacitance of Two-Dimensional Titanium Carbide,0,22,0,5,17,29,0.754048526,0.862182736,0.567645907,0.113652654,0.294536829
+lasker_40,40,Gut Microbiota from Twins Discordant for Obesity Modulate Metabolism in Mice,0,44,0,19,25,76,0.782460749,0.856897712,0.691581249,0.041943882,0.165316463
+lasker_41,41,Lentiviral Hematopoietic Stem Cell Gene Therapy in Patients with Wiskott-Aldrich Syndrome,0,60,1,21,38,62,0.804118514,0.90966022,0.518217146,0.072170988,0.391443074
+lasker_42,42,Nanoscale Fe 2 O 3 -Based Catalysts for Selective Hydrogenation of Nitroarenes to Anilines,0,17,0,9,8,39,0.775192142,0.902402341,0.463261485,0.105829149,0.439140856
+lasker_43,43,Applying and improving AlphaFold at CASP14,1,19,0,10,9,24,0.762615979,1.000000119,0.493188858,0.094565332,0.506811261
+lasker_44,44,High‐accuracy protein structure prediction in CASP14,0,32,1,14,17,44,0.770451963,0.903009593,0.499396294,0.112829536,0.403613299
+lasker_45,45,Assessment of prediction methods for protein structures determined by NMR in CASP14 : Impact of AlphaFold2,0,79,0,46,33,48,0.820303023,0.999999881,0.543323994,0.069556519,0.456675887
+lasker_46,46,Pseudokinases repurpose flexibility signatures associated with the protein kinase fold for noncatalytic roles,0,106,1,42,63,108,0.794124901,0.903177321,0.48124963,0.096471608,0.421927691
+lasker_47,47,Highly accurate protein structure prediction for the human proteome,1,56,1,19,36,83,0.787220478,0.900151491,0.429226309,0.115280747,0.470925182
+lasker_48,48,Towards complete and error-free genome assemblies of all vertebrate species,0,117,1,73,43,105,0.794958472,0.895104885,0.465573281,0.058905087,0.429531604
+lasker_49,49,Efficient perovskite solar cells via improved carrier management,0,49,1,15,33,51,0.782039165,0.891357183,0.498225898,0.098415121,0.393131286
+lasker_50,50,"Sequencing of 53,831 diverse genomes from the NHLBI TOPMed Program",0,102,1,45,56,108,0.802814901,0.911357939,0.560385346,0.061633252,0.350972593
+lasker_51,51,High-dimensional characterization of post-acute sequelae of COVID-19,0,34,1,25,8,39,0.732261479,0.865429878,0.461533308,0.101682685,0.40389657
+lasker_52,52,Detection of a SARS-CoV-2 variant of concern in South Africa,0,66,0,34,32,64,0.760399342,0.898693144,0.456128329,0.112472273,0.442564815
+lasker_53,53,Highly accurate protein structure prediction with AlphaFold,1,65,7,30,28,89,0.777378559,1.000000119,0.456290573,0.104361266,0.543709546
+lasker_54,54,Reduced sensitivity of SARS-CoV-2 variant Delta to antibody neutralization,0,126,2,91,33,37,0.782812715,0.90609771,0.443568408,0.141777426,0.462529302
+lasker_55,55,In vivo base editing rescues Hutchinson–Gilford progeria syndrome in mice,0,13,1,1,11,66,0.783802032,0.914643049,0.661694586,0.058800191,0.252948463
+lasker_56,56,Multi-omic machine learning predictor of breast cancer therapy response,0,36,0,16,20,80,0.804879785,0.90448612,0.528610587,0.057454977,0.375875533
+lasker_57,57,Skilful precipitation nowcasting using deep generative models of radar,0,42,0,27,15,91,0.740720391,0.893779993,0.443983227,0.124533862,0.449796766
+lasker_58,58,Small-molecule inhibition of METTL3 as a strategy against myeloid leukaemia,0,33,1,15,17,56,0.749165416,0.906748235,0.437549233,0.108897619,0.469199002
+lasker_59,59,Cell attachment activity of fibronectin can be duplicated by small synthetic fragments of the molecule,1,4,0,1,3,32,0.762908757,0.888118148,0.550521135,0.102852494,0.337597013
+lasker_60,60,Fractal character of fracture surfaces of metals,0,13,0,2,11,2,0.621582627,0.635564566,0.607600749,0.013981909,0.027963817
+lasker_61,61,Leukocytes roll on a selectin at physiologic flow rates: Distinction from and prerequisite for adhesion through integrins,1,130,0,16,114,69,0.757119834,0.857290387,0.47635746,0.096019082,0.380932927
+lasker_62,62,Targeted disruption of the c-src proto-oncogene leads to osteopetrosis in mice,0,55,0,31,24,65,0.738453329,0.914250374,0.472648144,0.145415053,0.44160223
+lasker_63,63,"Cell surface, heparin-like molecules are required for binding of basic fibroblast growth factor to its high affinity receptor",0,36,5,8,23,60,0.736691356,0.885194123,0.460209966,0.156580791,0.424984157
+lasker_64,64,Identification and characterization of the familial adenomatous polyposis coli gene,0,37,0,18,19,32,0.72899884,0.922307193,0.470618188,0.147016332,0.451689005
+lasker_65,65,Importance of the nef gene for maintenance of high virus loads and for development of AIDS,0,31,1,12,18,63,0.757331967,0.908244669,0.459738195,0.151282236,0.448506474
+lasker_66,66,RGD AND OTHER RECOGNITION SEQUENCES FOR INTEGRINS,1,74,0,7,67,102,0.792633653,0.861915052,0.536631823,0.043254133,0.325283229
+lasker_67,67,MITOTIC CHROMOSOME CONDENSATION,0,125,0,14,111,114,0.765636086,0.872333527,0.549157083,0.058694981,0.323176444
+lasker_68,68,ORGANIZING SPATIAL PATTERN IN LIMB DEVELOPMENT,0,78,0,6,72,100,0.796864629,0.889544249,0.480451584,0.075978853,0.409092665
+lasker_69,69,A CONSERVED SIGNALING PATHWAY: The Drosophila Toll-Dorsal Pathway,0,78,0,11,67,102,0.823664069,0.915452123,0.490608692,0.074535392,0.424843431
+lasker_70,70,NUCLEAR FUSION IN THE YEAST SACCHAROMYCES CEREVISIAE,0,112,0,12,100,126,0.820371449,0.899031162,0.574896932,0.049319156,0.324134231
+lasker_71,71,"Channelrhodopsin-2, a directly light-gated cation-selective membrane channel",1,48,1,14,33,46,0.7570526,0.884892762,0.485312641,0.114912122,0.399580121
+lasker_72,72,SHED: Stem cells from human exfoliated deciduous teeth,0,30,0,13,17,31,0.764037371,0.872704208,0.520615458,0.080691628,0.352088749
+lasker_73,73,Hypogonadotropic hypogonadism due to loss of function of the KiSS1-derived peptide receptor GPR54,0,20,0,9,11,2,0.754584193,0.774197221,0.734971166,0.019613028,0.039226055
+lasker_74,74,Structure and function of the feed-forward loop network motif,0,24,1,9,14,34,0.781979144,0.888249218,0.552986562,0.077001601,0.335262656
+lasker_75,75,Materials become insensitive to flaws at nanoscale: Lessons from nature,0,14,0,2,12,24,0.673134267,0.782732606,0.531136394,0.079024404,0.251596212
+lasker_76,76,"Millisecond-timescale, genetically targeted optical control of neural activity",1,19,0,3,16,31,0.769079447,0.87077111,0.560414314,0.074472621,0.310356796
+lasker_77,77,ATP mediates rapid microglial response to local brain injury in vivo,0,29,0,10,19,39,0.810160697,0.888736963,0.747422457,0.035688501,0.141314507
+lasker_78,78,Uncertainty-based competition between prefrontal and dorsolateral striatal systems for behavioral control,0,61,1,19,41,58,0.758723676,0.856539905,0.48089838,0.096447967,0.375641525
+lasker_79,79,Allodynia limits the usefulness of intraspinal neural stem cell grafts; directed differentiation improves outcome,0,50,0,16,34,50,0.782827973,0.891401768,0.568791747,0.084691271,0.322610021
+lasker_80,80,Top-down suppression deficit underlies working memory impairment in normal aging,0,12,0,2,10,15,0.781486213,0.857164443,0.553797245,0.091733299,0.303367198
+lasker_81,81,Ryk-mediated Wnt repulsion regulates posterior-directed growth of corticospinal tract,0,34,0,12,22,17,0.828145683,0.877701879,0.718843937,0.04273117,0.158857942
+lasker_82,82,Use of next-generation sequencing and other whole-genome strategies to dissect neurological disease,0,14,0,5,9,71,0.778240681,0.855244398,0.455034852,0.069398262,0.400209546
+lasker_83,83,Dopamine boosts ageing memories,0,47,0,17,30,2,0.6101982,0.631132245,0.589264154,0.020934045,0.041868091
+lasker_84,84,Whisking up a change in state,0,65,0,12,53,1,0.547060192,0.547060192,0.547060192,0,0
+lasker_85,85,Control of central auditory processing by a brain-generated oestrogen,0,55,1,13,41,49,0.77091074,0.847875178,0.563777566,0.065225825,0.284097612
+lasker_86,86,Hippocampus plays multiple choice,0,6,0,2,4,1,0.577415764,0.577415764,0.577415764,0,0
+lasker_87,87,Neurodegenerative networking,0,5,0,2,3,2,0.567653775,0.579795778,0.555511832,0.012141973,0.024283946
+lasker_88,88,Ionic conductivity in crystalline polymer electrolytes,0,20,0,8,12,26,0.693954229,0.881257892,0.560657382,0.105412811,0.32060051
+lasker_89,89,Evolution of Asian monsoons and phased uplift of the Himalaya–Tibetan plateau since Late Miocene times,0,34,0,15,19,32,0.719016731,0.920518756,0.491859764,0.148886159,0.428658992
+lasker_90,90,Single neurons in prefrontal cortex encode abstract rules,0,11,0,4,7,27,0.758401394,0.873900354,0.52335757,0.110230416,0.350542784
+lasker_91,91,Modulation of the Crayfish Escape Reflex--Physiology and Neuroethology,0,41,0,15,26,36,0.818620443,0.923786879,0.563682616,0.103955485,0.360104263
+lasker_92,92,Dynamics and Energetics of Animal Swimming and Flying: Introduction,0,17,0,11,6,15,0.800690711,0.844248652,0.646323204,0.04813417,0.197925448
+lasker_93,93,Power Requirements of Swimming: Do New Methods Resolve Old Questions?,0,56,8,12,36,49,0.726378858,0.828792036,0.516451836,0.097113281,0.3123402
+lasker_94,94,Severity of coronary atherosclerosis in patients with a first acute coronary event: a diabetes paradox,0,38,2,14,22,46,0.801359415,0.891907275,0.534608722,0.070503376,0.357298553
+lasker_95,95,Yeast Gcn5 functions in two multisubunit complexes to acetylate nucleosomal histones: characterization of an Ada complex and the SAGA (Spt/Ada) complex.,1,73,2,27,44,74,0.842207968,0.921856225,0.551836967,0.069124065,0.370019257
+lasker_96,96,Molecular basis for the discrimination of repressive methyl-lysine marks in histone H3 by Polycomb and HP1 chromodomains,1,34,0,18,16,50,0.824139237,0.933815062,0.528417826,0.085620292,0.405397236
+lasker_97,97,Canonical Wnt signals are essential for homeostasis of the intestinal epithelium,0,24,0,9,15,28,0.809314132,0.933343947,0.545777082,0.091876477,0.387566864
+lasker_98,98,Coupled degradation of a small regulatory RNA and its mRNA targets in Escherichia coli,0,53,1,14,38,55,0.818054914,0.87848866,0.665687561,0.046344448,0.212801099
+lasker_99,99,TAZ: a novel transcriptional co‐activator regulated by interactions with 14‐3‐3 and PDZ domain proteins,1,37,0,9,28,54,0.792869508,0.869505107,0.512625039,0.067085743,0.356880069
+lasker_100,100,The MEK1–ERK1/2 signaling pathway promotes compensated cardiac hypertrophy in transgenic mice,0,45,0,24,21,58,0.818725526,0.914789081,0.443430275,0.081761122,0.471358806
+lasker_101,101,The p300/CBP acetyltransferases function as transcriptional coactivators of β‐catenin in vertebrates,0,89,1,30,58,59,0.84124428,0.909183145,0.515913844,0.078621268,0.3932693
+lasker_102,102,"FIZZ1, a novel cysteine‐rich secreted protein associated with pulmonary inflammation, defines a new gene family",0,31,0,15,16,32,0.729141057,0.849898517,0.444705576,0.104580879,0.405192941
+lasker_103,103,Transcriptional silencing and promoter methylation triggered by double‐stranded RNA,0,47,0,19,28,39,0.76813519,0.881509602,0.539948583,0.095161073,0.341561019
+lasker_104,104,Origin and physiological roles of inflammation,0,79,10,14,55,60,0.801887512,0.891285181,0.560158849,0.060728129,0.331126332
+lasker_105,105,Understanding individual human mobility patterns,0,21,0,7,14,38,0.747385979,0.868112385,0.532464564,0.087441392,0.335647821
+lasker_106,106,Alternative isoform regulation in human tissue transcriptomes,0,46,7,10,29,41,0.815325022,0.899522662,0.596078992,0.0547271,0.30344367
+lasker_107,107,A core gut microbiome in obese and lean twins,0,60,2,27,31,35,0.759653986,0.863800526,0.530422211,0.061731089,0.333378315
+lasker_108,108,Comprehensive molecular characterization of clear cell renal cell carcinoma,1,58,0,3,55,34,0.814676464,0.906972766,0.738815546,0.044178471,0.16815722
+lasker_109,109,Mutational landscape and significance across 12 major cancer types,0,63,3,33,27,40,0.742809296,0.854214728,0.41083461,0.12262173,0.443380117
+lasker_110,110,VEGFA is necessary for chondrocyte survival during bone development,1,46,0,20,26,48,0.795205295,0.914829731,0.541633606,0.060820624,0.373196125
+lasker_111,111,Gene expression profiles of transcription factors and signaling molecules in the ascidian embryo: towards a comprehensive understanding of gene networks,0,90,13,29,48,63,0.830082774,0.909428179,0.447534323,0.097258948,0.461893857
+lasker_112,112,Quantitative analysis of acetyl-CoA production in hypoxic cancer cells reveals substantial contribution from acetate,0,25,0,10,15,3,0.760031939,0.795428276,0.717898369,0.032007959,0.077529907
+lasker_113,113,Succinate dehydrogenase inhibition leads to epithelial-mesenchymal transition and reprogrammed carbon metabolism,0,59,0,17,42,60,0.756943822,0.843433142,0.488213718,0.083053939,0.355219424
+lasker_114,114,Metformin directly acts on mitochondria to alter cellular bioenergetics,0,44,1,19,24,52,0.79018718,0.882836103,0.46447593,0.071609482,0.418360174
+lasker_115,115,GLUT3 is induced during epithelial-mesenchymal transition and promotes tumor cell proliferation in non-small cell lung cancer,0,41,0,10,31,41,0.758144915,0.87450397,0.643511891,0.056893084,0.230992079
+lasker_116,116,A strategically designed small molecule attacks alpha-ketoglutarate dehydrogenase in tumor cells through a redox process,0,49,0,19,30,42,0.788921893,0.866045296,0.542213976,0.059535775,0.32383132
+lasker_117,117,Tumor hypoxia induces nuclear paraspeckle formation through HIF-2α dependent transcriptional activation of NEAT1 leading to cancer cell survival,1,22,0,4,18,48,0.805860221,0.868528128,0.687280416,0.042575009,0.181247711
+lasker_118,118,Exosomal HIF1α supports invasive potential of nasopharyngeal carcinoma-associated LMP1-positive exosomes,0,53,0,5,48,43,0.778033078,0.859892011,0.680130959,0.0368567,0.179761052
+lasker_119,119,TAZ is required for metastatic activity and chemoresistance of breast cancer stem cells,0,29,0,7,22,36,0.810042381,0.881052732,0.669148207,0.045962866,0.211904526
+lasker_120,120,"p57KIP2, a structurally distinct member of the p21CIP1 Cdk inhibitor family, is a candidate tumor suppressor gene.",1,49,1,14,34,50,0.79587996,0.912356377,0.480492264,0.12442454,0.431864113
+lasker_121,121,The Drosophila tumor suppressor gene warts encodes a homolog of human myotonic dystrophy kinase and is required for the control of cell shape and proliferation.,0,54,0,20,34,62,0.78583318,0.941760063,0.535429001,0.114500567,0.406331062
+lasker_122,122,"Human Cyclin K, a Novel RNA Polymerase II-Associated Cyclin Possessing Both Carboxy-Terminal Domain Kinase and Cdk-Activating Kinase Activity",1,94,0,4,90,68,0.830228329,0.918892503,0.465071023,0.091809154,0.45382148
+lasker_123,123,"Pheromone-Dependent G 1 Cell Cycle Arrest Requires Far1 Phosphorylation, but May Not Involve Inhibition of Cdc28-Cln2 Kinase, In Vivo",0,52,0,14,38,60,0.84451139,0.904824376,0.561329067,0.076603621,0.343495309
+lasker_124,124,A Cellular Repressor of E1A-Stimulated Genes That Inhibits Activation by E2F,0,62,0,16,46,75,0.822671354,0.896973372,0.588813424,0.051312942,0.308159947
+lasker_125,125,Human Matrix Attachment Regions Insulate Transgene Expression from Chromosomal Position Effects in Drosophila melanogaster,0,56,0,13,43,57,0.814344645,0.861503303,0.568154395,0.042120539,0.293348908
+lasker_126,126,Identification of the cis-Acting Endoplasmic Reticulum Stress Response Element Responsible for Transcriptional Induction of Mammalian Glucose-regulated Proteins,1,56,0,13,43,58,0.842048883,0.915374279,0.483418703,0.086525857,0.431955576
+lasker_127,127,π-Stacking Interactions,0,101,4,20,77,30,0.72302264,0.834258497,0.486597419,0.103489183,0.347661078
+lasker_128,128,Post-transcriptional Regulation of Endothelial Nitric Oxide Synthase mRNA Stability by Rho GTPase,0,52,0,19,33,35,0.759305775,0.878126383,0.469168842,0.093169123,0.408957541
+lasker_129,129,IRE1-mediated unconventional mRNA splicing and S2P-mediated ATF6 cleavage merge to regulate XBP1 in signaling the unfolded protein response,1,55,0,15,40,61,0.81409502,0.93625474,0.391775727,0.102523841,0.544479012
+lasker_130,130,Adipose Tissue Hypoxia in Obesity and Its Impact on Adipocytokine Dysregulation,1,38,0,3,35,54,0.752898932,0.859946966,0.472439915,0.082689933,0.387507051
+lasker_131,131,Increased Number of Islet-Associated Macrophages in Type 2 Diabetes,0,34,0,15,19,38,0.793973267,0.859802842,0.583125651,0.053914499,0.276677191
+lasker_132,132,Excess Lipid Availability Increases Mitochondrial Fatty Acid Oxidative Capacity in Muscle,0,43,0,8,35,49,0.808622181,0.903634846,0.733053803,0.036773507,0.170581043
+lasker_133,133,Synaptic vesicle membrane fusion complex: action of clostridial neurotoxins on assembly.,1,38,0,12,26,32,0.797170639,0.913864613,0.520139396,0.106034055,0.393725216
+lasker_134,134,Interleukin‐6 deficient mice are protected from bone loss caused by estrogen depletion.,0,41,0,13,28,34,0.788080633,0.891437769,0.535964429,0.086534247,0.35547334
+lasker_135,135,Sp1‐mediated transcriptional activation is repressed by Sp3.,0,81,0,41,40,39,0.816753507,0.922248363,0.528032362,0.093080692,0.394216001
+lasker_136,136,Antibody fragments from a ‘single pot’ phage display library as immunochemical reagents.,0,56,1,34,21,52,0.780292749,0.936733842,0.464876115,0.105966434,0.471857727
+lasker_137,137,Rim is a putative Rab3 effector in regulating synaptic-vesicle fusion,1,35,0,12,23,33,0.774386227,0.916713655,0.519033968,0.107013486,0.397679687
+lasker_138,138,Microglial activation by Alzheimer amyloid precursor protein and modulation by apolipoprotein E,0,19,0,7,12,28,0.812267959,0.879299998,0.728765368,0.040369339,0.15053463
+lasker_139,139,Activity of DNA ligase IV stimulated by complex formation with XRCC4 protein in mammalian cells,0,33,0,11,22,30,0.785763144,0.845064163,0.534499586,0.055343062,0.310564578
+lasker_140,140,Short-range control of cell differentiation in the Arabidopsis root meristem,0,15,0,5,10,18,0.832668304,0.956017554,0.596654952,0.10270825,0.359362602
+lasker_141,141,"Pb, U and Th diffusion in natural zircon",0,144,0,47,97,21,0.797484696,0.924786329,0.544472158,0.144169614,0.380314171
+lasker_142,142,A conformational switch in syntaxin during exocytosis: role of munc18,1,81,6,32,43,48,0.791640937,0.890259445,0.481686592,0.07638254,0.408572853
+lasker_143,143,The JAK‐binding protein JAB inhibits Janus tyrosine kinase activity through binding in the activation loop,0,62,16,7,39,41,0.818396211,0.925444126,0.464776754,0.1013202,0.460667372
+lasker_144,144,c‐Jun regulates cell cycle progression and apoptosis by distinct mechanisms,0,147,0,12,135,59,0.787559569,0.865841269,0.671425641,0.035085399,0.194415629
+lasker_145,145,Protection of Escherichia coli cells against extreme turgor by activation of MscS and MscL mechanosensitive channels: identification of genes required for MscS activity,0,40,0,11,29,43,0.776927352,0.868458688,0.531754315,0.084058464,0.336704373
+lasker_146,146,Association of p19ARF with Mdm2 inhibits ubiquitin ligase activity of Mdm2 for tumor suppressor p53,0,50,0,27,23,44,0.787709832,0.885468125,0.408588946,0.104703099,0.476879179
+lasker_147,147,GIGANTEA: a circadian clock‐controlled gene that regulates photoperiodic flowering in Arabidopsis and encodes a protein with several possible membrane‐spanning domains,0,75,0,30,45,42,0.776358366,0.882760704,0.500418603,0.093355946,0.3823421
+lasker_148,148,Monosynaptic Pathway from Rat Vibrissa Motor Cortex to Facial Motor Neurons Revealed by Lentivirus-Based Axonal Tracing,1,57,0,15,42,64,0.75062263,0.86736697,0.465282291,0.108382903,0.402084678
+lasker_149,149,Structural Domains Involved in the Regulation of Transmitter Release by Synapsins,0,83,0,27,56,91,0.834964454,0.921105802,0.529075801,0.068575718,0.392030001
+lasker_150,150,Neurogenesis and Neuroprotection Induced by Peripheral Immunomodulatory Treatment of Experimental Autoimmune Encephalomyelitis,0,28,0,4,24,33,0.79374218,0.892190039,0.731116354,0.033514384,0.161073685
+lasker_151,151,Channel Noise is Essential for Perithreshold Oscillations in Entorhinal Stellate Neurons,0,18,0,8,10,19,0.791640162,0.891694009,0.527890563,0.079289861,0.363803446
+lasker_152,152,State Classification for Humanoid Robots,0,18,0,7,11,18,0.760382771,0.869241595,0.486557007,0.108156428,0.382684588
+lasker_153,153,Reproducing Human Arm Motion Using a Kinematically Coupled Humanoid Shoulder–Elbow Complex,0,40,3,16,21,28,0.775079548,0.905310869,0.497155637,0.095906317,0.408155233
+lasker_154,154,The SAHR Setup-Controlling Hopping Speed and Height Using a Single Actuator,0,8,0,5,3,12,0.697377384,0.884674191,0.47638011,0.148428291,0.408294082
+lasker_155,155,A Low‐Cost Anthropometric Walking Robot for Reproducing Gait Lab Data,0,17,0,13,4,11,0.741322756,0.806826413,0.585245848,0.071730845,0.221580565
+lasker_156,156,Optimization of a GCaMP Calcium Indicator for Neural Activity Imaging,1,110,0,64,46,91,0.769846082,0.900775909,0.422378808,0.102736495,0.478397101
+lasker_157,157,In VivoFunctional and Myeloarchitectonic Mapping of Human Primary Auditory Areas,0,76,0,25,51,72,0.786266983,0.867730916,0.4877069,0.080131866,0.380024016
+lasker_158,158,"TMEM106B, the Risk Gene for Frontotemporal Dementia, Is Regulated by the microRNA-132/212 Cluster and Affects Progranulin Pathways",0,55,0,13,42,43,0.804642498,0.899164796,0.697983265,0.047092773,0.201181531
+lasker_159,159,"Function in protein folding of TRiC, a cytosolic ring complex containing TCP‐1 and structurally related subunits.",1,69,0,32,37,79,0.767542541,1.000000238,0.451454788,0.125300363,0.54854545
+lasker_160,160,Manipulating disulfide bond formation and protein folding in the endoplasmic reticulum.,0,66,2,32,32,41,0.794608057,0.91807282,0.584064722,0.095929377,0.334008098
+lasker_161,161,A novel bacterial virulence gene in Listeria monocytogenes required for host cell microfilament interaction with homology to the proline‐rich region of vinculin.,0,47,1,26,20,34,0.792240381,0.92441833,0.520166457,0.102647983,0.404251873
+lasker_162,162,The protein kinase homologue Ste20p is required to link the yeast pheromone response G‐protein beta gamma subunits to downstream signalling components.,0,83,1,42,40,46,0.806790948,0.9217453,0.52817446,0.096065715,0.39357084
+lasker_163,163,"RXR alpha, a promiscuous partner of retinoic acid and thyroid hormone receptors.",0,51,0,14,37,46,0.843871891,0.916154623,0.745002151,0.041751545,0.171152472
+lasker_164,164,Recombination of protein domains facilitated by co-translational folding in eukaryotes,1,34,0,18,16,42,0.738483369,0.862918735,0.531542301,0.093128309,0.331376433
+lasker_165,165,Molecular identification of a volume-regulated chloride channel,0,43,0,15,28,31,0.823331773,0.890923381,0.706406772,0.047064077,0.184516609
+lasker_166,166,Colour tuning in human visual cortex measured with functional magnetic resonance imaging,0,20,0,9,11,30,0.734709799,0.883802533,0.486188889,0.115706034,0.397613645
+lasker_167,167,Yeast DNA ligase IV mediates non-homologous DNA end joining,0,62,3,36,23,24,0.797926009,0.906851113,0.561359167,0.083302796,0.345491946
+lasker_168,168,An intracellular protein that binds amyloid-β peptide and mediates neurotoxicity in Alzheimer's disease,0,24,0,10,14,48,0.798051834,0.906720757,0.482687265,0.089576133,0.424033493
+lasker_169,169,Femtosecond time-resolved X-ray diffraction from laser-heated organic films,0,12,0,5,7,15,0.656344831,0.89942205,0.562188148,0.114124276,0.337233901
+lasker_170,170,"Endotoxin and cytokines induce expression of leptin, the ob gene product, in hamsters.",1,31,0,1,30,50,0.799874365,0.909854531,0.488061786,0.091165245,0.421792746
+lasker_171,171,"Normal luminal bacteria, especially Bacteroides species, mediate chronic colitis, gastritis, and arthritis in HLA-B27/human beta2 microglobulin transgenic rats.",0,36,0,12,24,54,0.757472456,0.908545852,0.532150447,0.099781781,0.376395404
+lasker_172,172,Obesity in the new millennium,1,39,0,2,37,27,0.743637919,0.851516366,0.51300168,0.081934594,0.338514686
+lasker_173,173,Molecular-scale interface engineering for polymer light-emitting diodes,0,27,1,7,19,26,0.77153784,0.882576346,0.515688002,0.108663976,0.366888344
+lasker_174,174,Genomic rearrangement in NEMO impairs NF-κB activation and is a cause of incontinentia pigmenti,0,28,0,7,21,31,0.781059504,0.85752964,0.537211359,0.064841419,0.320318282
+lasker_175,175,Negative regulation of lymphocyte activation and autoimmunity by the molecular adaptor Cbl-b,0,13,1,3,9,23,0.836363912,0.943381965,0.608164072,0.063950017,0.335217893
+lasker_176,176,Quantifying the uncertainty in forecasts of anthropogenic climate change,0,28,0,11,17,34,0.695955217,0.880683959,0.509513557,0.124420509,0.371170402
+lasker_177,177,Acclimation of ecosystem CO2 exchange in the Alaskan Arctic in response to decadal climate warming,0,29,0,15,14,32,0.785509706,0.921559572,0.542226791,0.115037441,0.379332781
+lasker_178,178,Brain fatty acid synthase activates PPARα to maintain energy homeostasis,1,59,0,21,38,56,0.773052633,0.88743639,0.496019125,0.087934569,0.391417265
+lasker_179,179,Gene therapy for severe combined immunodeficiency: are we there yet?,0,90,0,31,59,125,0.750258505,0.869699597,0.507647932,0.063802928,0.362051666
+lasker_180,180,Yin and yang interplay of IFN-γ in inflammation and autoimmune disease,0,20,0,7,13,20,0.785558164,0.849280834,0.471725851,0.081125326,0.377554983
+lasker_181,181,In vivo blockade of OX40 ligand inhibits thymic stromal lymphopoietin driven atopic inflammation,0,61,0,11,50,36,0.824467659,0.898913324,0.595200241,0.067168728,0.303713083
+lasker_182,182,Prostate cell differentiation status determines transient receptor potential melastatin member 8 channel subcellular localization and function,0,67,0,13,54,42,0.746788204,0.850324571,0.544278085,0.059406966,0.306046486
+lasker_183,183,"Multipotential Nestin-Positive Stem Cells Isolated From Adult Pancreatic Islets Differentiate Ex Vivo Into Pancreatic Endocrine, Exocrine, and Hepatic Phenotypes",1,45,0,8,37,61,0.763035774,0.86978507,0.520033658,0.097155951,0.349751413
+lasker_184,184,Reduced Postprandial Concentrations of Intact Biologically Active Glucagon-Like Peptide 1 in Type 2 Diabetic Patients,0,24,0,10,14,35,0.707521141,0.870734572,0.447803319,0.130079672,0.422931254
+lasker_185,185,Insulin Production by Human Embryonic Stem Cells,0,30,0,12,18,47,0.764558911,0.883907616,0.524371684,0.075730987,0.359535933
+lasker_186,186,Effects of Acute Changes of Plasma Free Fatty Acids on Intramyocellular Fat Content and Insulin Resistance in Healthy Subjects,0,36,1,12,23,49,0.773800313,0.917701483,0.534524798,0.1083178,0.383176684
+lasker_187,187,Sustained expression of microRNA-155 in hematopoietic stem cells causes a myeloproliferative disorder,1,35,0,7,28,40,0.808549583,0.873582065,0.465808243,0.08420366,0.407773823
+lasker_188,188,Functional and genomic profiling of effector CD8 T cell subsets with distinct memory fates,0,39,0,7,32,71,0.84035635,0.929372787,0.72128737,0.038839471,0.208085418
+lasker_189,189,Deficiency of Th17 cells in hyper IgE syndrome due to mutations in STAT3,0,44,1,5,38,38,0.825259984,0.918918848,0.746210694,0.030453965,0.172708154
+lasker_190,190,IL-33 reduces the development of atherosclerosis,0,33,0,8,25,31,0.795328677,0.882945418,0.686954319,0.043458581,0.195991099
+lasker_191,191,A novel pathogenic pathway of immune activation detectable before clinical onset in Huntington's disease,0,48,1,22,25,37,0.779795289,0.871485353,0.536027849,0.077434398,0.335457504
+lasker_192,192,MicroRNA-208a is a regulator of cardiac hypertrophy and conduction in mice,1,63,0,15,48,88,0.789636254,0.907096803,0.435908616,0.078485407,0.471188188
+lasker_193,193,GRP78 expression inhibits insulin and ER stress–induced SREBP-1c activation and reduces hepatic steatosis in mice,0,53,1,10,42,59,0.788076878,0.889960229,0.557836711,0.052260846,0.332123518
+lasker_194,194,Regulation of mitochondrial dynamics in acute kidney injury in cell culture and rodent models,0,47,0,16,31,58,0.810436666,0.891187668,0.588326216,0.048717417,0.302861452
+lasker_195,195,Autophagy regulates adipose mass and differentiation in mice,0,50,0,17,33,45,0.796643853,0.897850513,0.558434367,0.06646125,0.339416146
+lasker_196,196,Pharmacologic inhibition of fatty acid oxidation sensitizes human leukemia cells to apoptosis induction,0,51,1,17,33,50,0.79890579,0.875361919,0.511939764,0.066341154,0.363422155
+lasker_197,197,A uniform system for microRNA annotation,1,7,0,2,5,21,0.76146245,0.81406337,0.487343758,0.065381691,0.326719612
+lasker_198,198,Lentivirus-delivered stable gene silencing by RNAi in primary cells,0,41,0,18,23,37,0.794381976,0.915849566,0.52985239,0.084888466,0.385997176
+lasker_199,199,A microRNA array reveals extensive regulation of microRNAs during brain development,0,38,0,5,33,34,0.809090316,0.862846613,0.725278318,0.028975952,0.137568295
+lasker_200,200,Stereospecificity of short Rev-derived peptide interactions with RRE IIB RNA,0,55,0,19,36,24,0.823132813,0.894947171,0.511217654,0.073054656,0.383729517
+lasker_201,201,UAP56 levels affect viability and mRNA export in Caenorhabditis elegans,0,43,0,12,31,127,0.560917497,0.748150349,0.425218105,0.090420805,0.322932243
+lasker_202,202,The signal recognition particle binds to protein L23 at the peptide exit of the Escherichia coli ribosome,0,35,1,11,23,38,0.865827382,0.909474015,0.764214098,0.034412105,0.145259917
+lasker_203,203,Structural organization of a viral IRES depends on the integrity of the GNRA motif,0,43,0,20,23,53,0.82788527,0.907080531,0.456821769,0.092572272,0.450258762
+lasker_204,204,Expression profiling of mammalian microRNAs uncovers a subset of brain-expressed microRNAs with possible roles in murine and human neuronal differentiation,1,56,0,10,46,52,0.787809968,0.898512721,0.43217361,0.068088464,0.466339111
+lasker_205,205,START lipid/sterol-binding domains are amplified in plants and are predominantly associated with homeodomain transcription factors,0,69,0,18,51,51,0.771859705,0.846452415,0.503574193,0.065864585,0.342878222
+lasker_206,206,From co-expression to co-regulation: how many microarray experiments do we need?,0,63,1,31,31,36,0.692297757,0.819197297,0.424726248,0.120638818,0.394471049
+lasker_207,207,How biologically relevant are interaction-based modules in protein networks?,0,39,0,22,17,36,0.762514412,0.850237727,0.512545347,0.089717001,0.33769238
+lasker_208,208,Full-length cDNAs from chicken bursal lymphocytes to facilitate gene function analysis,0,34,0,19,15,39,0.759017646,0.866073132,0.490873933,0.100144506,0.375199199
+lasker_209,209,Large-scale exploration of growth inhibition caused by overexpression of genomic fragments in Saccharomyces cerevisiae,0,59,1,23,35,70,0.81047982,0.902287483,0.470679522,0.087644748,0.431607962
+lasker_210,210,Highly specific gene silencing by artificial microRNAs in the unicellular alga Chlamydomonas reinhardtii,1,47,0,20,27,48,0.822956264,0.965445995,0.665812314,0.053627279,0.299633682
+lasker_211,211,DIFFERENTIAL INHIBITORY EFFECTS OF CHOLERA TOXOIDS AND GANGLIOSIDE ON THE ENTEROTOXINS OF VIBRIO CHOLERAE AND ESCHERICHIA COLI,0,35,0,12,23,27,0.726282895,0.867009819,0.553364277,0.106860057,0.313645542
+lasker_212,212,Early lymphocyte expansion is severely impaired in interleukin 7 receptor-deficient mice.,0,21,0,8,13,33,0.831658721,0.914566636,0.545019984,0.063277304,0.369546652
+lasker_213,213,Activation of human dendritic cells through CD40 cross-linking.,0,34,0,9,25,42,0.838620663,0.921083927,0.565575659,0.062379632,0.355508268
+lasker_214,214,Cap-prevented recombination between terminal telomeric repeat arrays (telomere CPR) maintains telomeres in Kluyveromyces lactis lacking telomerase.,1,59,0,20,39,57,0.795297265,0.908456922,0.453326941,0.102186285,0.455129981
+lasker_215,215,Pax-5 (BSAP) recruits Ets proto-oncogene family proteins to form functional ternary complexes on a B-cell-specific promoter.,0,87,0,34,53,76,0.848958492,0.933718264,0.531384349,0.084626824,0.402333915
+lasker_216,216,Wild-type p53 negatively regulates the expression of a microtubule-associated protein.,0,42,0,20,22,39,0.846565843,0.938273907,0.519172788,0.098286137,0.419101119
+lasker_217,217,Repression of human heat shock factor 1 activity at control temperature by phosphorylation.,0,60,0,26,34,55,0.829863489,0.93694818,0.513282359,0.089525774,0.423665822
+lasker_218,218,Multiple functions for Pax6 in mouse eye and nasal development.,0,41,0,13,28,49,0.800371528,0.875860572,0.544305205,0.07485301,0.331555367
+lasker_219,219,"Metalloproteinases: role in breast carcinogenesis, invasion and metastasis",0,60,0,19,41,48,0.798331082,0.880173802,0.576475084,0.070668437,0.303698719
+lasker_220,220,C/EBPβ and mammary epithelial cell fate,0,1,0,0,1,1,0.575297713,0.575297713,0.575297713,0,0
+lasker_221,221,Transforming growth factors-β are not good biomarkers of chemopreventive efficacy in a preclinical breast cancer model system,0,57,0,13,44,53,0.790067136,0.853837132,0.521066546,0.072273649,0.332770586
+lasker_222,222,MR-guided breast biopsy,0,13,0,2,11,3,0.712952137,0.844565153,0.644859493,0.09308321,0.19970566
+lasker_223,223,Ink4a/Arf expression is a biomarker of aging,1,44,0,3,41,65,0.755420804,0.866687655,0.427788079,0.080271788,0.438899577
+lasker_224,224,Circulating fibrocytes traffic to the lungs in response to CXCL12 and mediate fibrosis,0,55,0,18,37,41,0.762681305,0.839163542,0.521608531,0.064380005,0.31755501
+lasker_225,225,Ligation of CD40 on dendritic cells triggers production of high levels of interleukin-12 and enhances T cell stimulatory capacity: T-T help via APC activation.,0,20,0,10,10,25,0.839137971,0.918940544,0.524618745,0.07730028,0.394321799
+lasker_226,226,Phosphotyrosines in the killer cell inhibitory receptor motif of NKB1 are required for negative signaling and for association with protein tyrosine phosphatase 1C.,0,26,0,7,19,30,0.82857728,0.906195104,0.579918325,0.077120528,0.326276779
+lasker_227,227,Self-renewal of pluripotent embryonic stem cells is mediated via activation of STAT3,1,137,5,46,86,79,0.785238385,0.89489454,0.453912169,0.078933366,0.440982372
+lasker_228,228,Histone acetylation and transcriptional regulatory mechanisms,0,49,0,20,29,61,0.785881877,0.90588367,0.478928596,0.091536984,0.426955074
+lasker_229,229,Transplanted bone marrow regenerates liver by cell fusion,0,30,0,9,21,25,0.732476473,0.843503773,0.523530245,0.091577657,0.319973528
+lasker_230,230,Structure and gating mechanism of the acetylcholine receptor pore,0,36,0,18,18,48,0.806604207,0.924677253,0.503094077,0.10457015,0.421583176
+lasker_231,231,Characterization of three RXR genes that mediate the action of 9-cis retinoic acid.,1,107,0,21,86,54,0.807301283,0.92929399,0.449392229,0.114266515,0.479901761
+lasker_232,232,I kappa B interacts with the nuclear localization sequences of the subunits of NF-kappa B: a mechanism for cytoplasmic retention.,0,115,0,69,46,53,0.827659726,0.943015754,0.47521925,0.114449695,0.467796504
+lasker_233,233,A novel DNA-binding protein with regulatory and protective roles in starved Escherichia coli.,0,44,0,21,23,59,0.719888866,0.892600656,0.519993901,0.117339596,0.372606754
+lasker_234,234,The Drosophila spitz gene encodes a putative EGF-like growth factor involved in dorsal-ventral axis formation and neurogenesis.,0,85,0,38,47,82,0.803210378,0.946617067,0.513452828,0.100264087,0.433164239
+lasker_235,235,In vitro selection of active hairpin ribozymes by sequential RNA-catalyzed cleavage and ligation reactions.,0,20,2,4,14,23,0.794211984,0.898196042,0.543960035,0.079943433,0.354236007
+lasker_236,236,Conserved motifs in Fos and Jun define a new class of activation domain.,0,41,0,13,28,35,0.840599358,0.920343399,0.749217212,0.043218479,0.171126187
+lasker_237,237,"LXR, a nuclear receptor that defines a distinct retinoid response pathway.",1,52,0,24,28,51,0.813754737,0.922353625,0.539671183,0.099880189,0.382682443
+lasker_238,238,Consequences of lack of beta 1 integrin gene expression in mice.,0,49,0,23,26,43,0.802157223,0.914760709,0.474374264,0.093772575,0.440386444
+lasker_239,239,Mice lacking cyclin D1 are small and show defects in eye and mammary gland development.,0,29,0,16,13,45,0.760726511,0.908089161,0.457495093,0.124080852,0.450594068
+lasker_240,240,Patterns of gene action in plant development revealed by enhancer trap and gene trap transposable elements.,0,56,0,29,27,55,0.826282442,0.931052268,0.45755592,0.106703945,0.473496348
+lasker_241,241,Developmental-specific activity of the FGF-4 enhancer requires the synergistic action of Sox2 and Oct-3.,0,55,0,21,34,51,0.832643151,0.921011984,0.509171546,0.083366729,0.411840439
+lasker_242,242,"The SIR2 gene family, conserved from bacteria to humans, functions in silencing, cell cycle progression, and chromosome stability.",0,56,0,24,32,77,0.821395218,0.908506215,0.524682164,0.080382191,0.38382405
+lasker_243,243,Deletion of beta 1 integrins in mice results in inner cell mass failure and peri-implantation lethality.,0,50,0,18,32,45,0.80773437,0.923053622,0.516048729,0.095177695,0.407004893
+lasker_244,244,Tissue‐specific and inducible Cre‐mediated recombination in the gut epithelium,1,18,0,8,10,20,0.78420788,0.921355963,0.536109746,0.120363109,0.385246217
+lasker_245,245,"Expression of AmphiCoe, an amphioxus COE/EBF gene, in the developing central nervous system and epidermal sensory neurons",0,28,0,3,25,36,0.863008261,0.925083578,0.70106101,0.051372014,0.224022567
+lasker_246,246,Efficient temporally controlled targeted somatic mutagenesis in hepatocytes of the mouse,0,25,1,15,9,28,0.790586591,0.951266885,0.526705146,0.106428996,0.424561739
+lasker_247,247,"A reliable lacZ expression reporter cassette for multipurpose, knockout‐first alleles",0,22,0,12,10,26,0.797973871,0.885794044,0.478151947,0.0879618,0.407642096
+lasker_248,248,Notch pathway is dispensable for adipocyte specification,0,46,0,23,23,28,0.759524763,0.869670868,0.43074286,0.087513328,0.438928008
+lasker_249,249,Human transcription factor USF stimulates transcription through the initiator elements of the HIV‐1 and the Ad‐ML promoters.,1,54,0,12,42,48,0.857068777,0.934479356,0.499287784,0.06980107,0.435191572
+lasker_250,250,Structure‐function analysis of human IL‐6 receptor: dissociation of amino acid residues required for IL‐6‐binding and for IL‐6 signal transduction through gp130.,0,19,0,11,8,29,0.777227402,0.925535679,0.438162178,0.14713572,0.487373501
+lasker_251,251,Processing followed by complete editing of an altered mitochondrial atp6 RNA restores fertility of cytoplasmic male sterile rice.,0,45,0,17,28,53,0.803170741,0.910572886,0.505717754,0.097880147,0.404855132
+lasker_252,252,Overproduction of the poly(ADP‐ribose) polymerase DNA‐binding domain blocks alkylation‐induced DNA repair synthesis in mammalian cells.,0,40,0,27,13,39,0.817625165,0.934207082,0.497734755,0.110149458,0.436472327
+lasker_253,253,Chromosomal replication initiates and terminates at random sequences but at regular intervals in the ribosomal DNA of Xenopus early embryos.,0,73,2,16,55,79,0.801859677,0.917934299,0.556334376,0.102632791,0.361599922
+lasker_254,254,A selective defect in IgG2b switching as a result of targeted mutation of the I gamma 2b promoter and exon.,0,35,0,15,20,48,0.82776159,0.876565874,0.518343747,0.054222204,0.358222127
+lasker_255,255,The Sec13p complex and reconstitution of vesicle budding from the ER with purified cytosolic proteins.,0,75,0,45,30,43,0.813116908,0.948685288,0.480272144,0.137186423,0.468413144
+lasker_256,256,First structure of a snake venom metalloproteinase: a prototype for matrix metalloproteinases/collagenases.,0,40,0,17,23,43,0.743321657,0.889013648,0.452463865,0.144074351,0.436549783
+lasker_257,257,Mitotic regulation of TFIID: inhibition of activator-dependent transcription and changes in subcellular localization.,1,107,0,23,84,67,0.803311884,0.924145818,0.503302574,0.117261864,0.420843244
+lasker_258,258,Activator-dependent regulation of transcriptional pausing on nucleosomal templates.,0,58,0,22,36,54,0.823940575,0.942560434,0.557074547,0.09553194,0.385485888
+lasker_259,259,Mutation of the mouse klotho gene leads to a syndrome resembling ageing,0,20,0,5,15,26,0.743019402,0.887282193,0.546731234,0.099251471,0.340550959
+lasker_260,260,Light-induced amphiphilic surfaces,0,15,0,3,12,1,0.772898197,0.772898197,0.772898197,0,0
+lasker_261,261,A CD4+T-cell subset inhibits antigen-specific T-cell responses and prevents colitis,0,36,0,16,20,29,0.755780995,0.872350216,0.5287323,0.085770339,0.343617916
+lasker_262,262,Molecular basis of agonism and antagonism in the oestrogen receptor,0,35,0,10,25,29,0.841525316,0.916624367,0.549956083,0.070002891,0.366668284
+lasker_263,263,Unresponsiveness to Cannabinoids and Reduced Addictive Effects of Opiates in CB 1 Receptor Knockout Mice,0,53,0,31,22,23,0.817464411,0.874163985,0.761385322,0.033137824,0.112778664
+lasker_264,264,"LC3, a mammalian homologue of yeast Apg8p, is localized in autophagosome membranes after processing",1,40,0,18,22,31,0.817243576,0.928276956,0.732051373,0.049243238,0.196225584
+lasker_265,265,RXR alpha mutant mice establish a genetic basis for vitamin A signaling in heart morphogenesis.,1,42,0,10,32,47,0.753950715,0.904216528,0.478766024,0.122312658,0.425450504
+lasker_266,266,p21-containing cyclin kinases exist in both active and inactive states.,0,27,0,10,17,14,0.814290881,0.905392051,0.606826782,0.075570352,0.298565269
+lasker_267,267,The GLABRA2 gene encodes a homeo domain protein required for normal trichome development in Arabidopsis.,0,84,0,30,54,59,0.769777,0.932026863,0.532024026,0.119338237,0.400002837
+lasker_268,268,"Several hydrophobic amino acids in the p53 amino-terminal domain are required for transcriptional activation, binding to mdm-2 and the adenovirus 5 E1B 55-kD protein.",0,59,0,28,31,49,0.843199492,0.924225807,0.539765477,0.087494418,0.38446033
+lasker_269,269,JNK2 contains a specificity-determining region responsible for efficient c-Jun binding and phosphorylation.,0,73,0,30,43,34,0.815591216,0.91385144,0.491864234,0.089427412,0.421987206
+lasker_270,270,The nuclear receptor steroidogenic factor 1 acts at multiple levels of the reproductive axis.,0,92,6,29,57,41,0.760006487,0.908361197,0.513382792,0.119250104,0.394978404
+lasker_271,271,Direct evidence for the importance of endothelium-derived nitric oxide in vascular remodeling.,1,23,0,6,17,40,0.81377542,0.898938656,0.56663686,0.060596235,0.332301795
+lasker_272,272,Chronic lymphocytic leukemia B cells express restricted sets of mutated and unmutated antigen receptors.,0,38,0,13,25,66,0.838415205,0.925879478,0.561481237,0.067862138,0.364398241
+lasker_273,273,Micronutrients: oxidant/antioxidant status,1,69,0,1,68,64,0.756361425,0.870782435,0.456484973,0.071745366,0.414297462
+lasker_274,274,Dietary assessment in Whitehall II: comparison of 7 d diet diary and food-frequency questionnaire and validity against biomarkers,0,36,0,24,12,36,0.667790353,0.871836245,0.447031379,0.135342017,0.424804866
+lasker_275,275,The yeast ubiquitin genes: a family of natural gene fusions.,1,121,0,31,90,68,0.763344705,0.920749485,0.456560969,0.125771955,0.464188516
+lasker_276,276,Sequence‐specific interactions of a pea nuclear factor with light‐responsive elements upstream of the rbcS‐3A gene.,0,40,2,12,26,36,0.821269751,0.910150051,0.523315012,0.104769945,0.386835039
+lasker_277,277,Molecular cloning and expression of cDNA encoding a murine myeloid leukaemia inhibitory factor (LIF).,0,48,0,29,19,33,0.8149122,0.928468943,0.555401921,0.087326147,0.373067021
+lasker_278,278,Identification and purification of a polypeptide that binds to the c‐fos serum response element.,0,39,0,23,16,35,0.857019961,0.936791837,0.560717165,0.067158364,0.376074672
+lasker_279,279,"Independent and synergistic activity of rol A, B and C loci in stimulating abnormal growth in plants",0,67,3,31,33,30,0.768690526,0.829219282,0.554701567,0.081534773,0.274517715
+lasker_280,280,Sequence‐specific positioning of nucleosomes over the steroid‐inducible MMTV promoter.,0,31,0,13,18,33,0.809701085,0.925351381,0.582484603,0.109541908,0.342866778
+lasker_281,281,The ubiquitin conjugation system is required for ligand‐induced endocytosis and degradation of the growth hormone receptor.,1,127,4,18,105,39,0.832817078,0.915052056,0.541056871,0.072964013,0.373995185
+lasker_282,282,The proteolysis of mitotic cyclins in mammalian cells persists from the end of mitosis until the onset of S phase.,0,42,0,16,26,57,0.853230536,0.905734122,0.730876148,0.039044417,0.174857974
+lasker_283,283,Bni1p implicated in cytoskeletal control is a putative target of Rho1p small GTP binding protein in Saccharomyces cerevisiae.,0,54,0,25,29,51,0.831423819,0.94839108,0.502388537,0.107528761,0.446002543
+lasker_284,284,Imaging the intracellular trafficking and state of the AB5 quaternary structure of cholera toxin.,0,25,0,13,12,27,0.77227813,0.877285957,0.545695722,0.109102242,0.331590235
+lasker_285,285,Ubiquitination of p27 is regulated by Cdk-dependent phosphorylation and trimeric complex formation,1,97,2,64,31,48,0.777223647,0.917766094,0.408064127,0.130426124,0.509701967
+lasker_286,286,Caspase-9 and APAF-1 form an active holoenzyme,0,27,11,5,11,27,0.794675052,0.885913551,0.422003388,0.105359361,0.463910162
+nobel_0,0,Induction of pluripotent stem cells from adult human fibroblasts by defined factors,1,77,0,0,77,31,0.707358778,1,0.484144986,0.153948337,0.515855014
+nobel_1,1,Induction of pluripotent stem cells from mouse embryonic and adult fibroblast cultures by defined factors,1,31,0,6,25,53,0.652643383,0.939635932,0.48767966,0.150582537,0.451956272
+nobel_2,2,Molecular basis for the recognition of primary microRNAs by the Drosha-DGCR8 complex,0,20,1,9,10,44,0.665393233,0.96265173,0.485760599,0.150789857,0.47689113
+nobel_3,3,SNAREpins: minimal machinery for membrane fusion,1,77,0,27,50,82,0.696862698,0.932936072,0.502509475,0.164299384,0.430426598
+nobel_4,4,The core protein of hepatitis C virus induces hepatocellular carcinoma in transgenic mice,0,23,0,11,12,34,0.776424348,0.909441054,0.506106973,0.114882924,0.403334081
+nobel_5,5,"Genetic identification of Mom-1, a major modifier locus affecting Min-induced intestinal neoplasia in the mouse",0,32,0,19,13,43,0.662714183,0.954754949,0.515662253,0.152515844,0.439092696
+nobel_6,6,Genetic and physical linkage of exogenous sequences in transformed cells,0,48,0,25,23,19,0.817959309,0.932899237,0.589524388,0.142870665,0.343374848
+nobel_7,7,Phase variation: genetic analysis of switching mutants,0,73,0,45,28,26,0.712123215,0.921332896,0.556487679,0.14247717,0.364845216
+nobel_8,8,Synaptotagmin I: a major Ca2+ sensor for transmitter release at a central synapse,1,33,2,14,17,41,0.725595713,0.957419038,0.538064539,0.167983189,0.419354498
+nobel_9,9,Molecular epidemiology of HIV transmission in a dental practice,0,36,0,21,15,42,0.698919177,0.878232718,0.515514255,0.107902102,0.362718463
+nobel_10,10,Microstructure of a spatial map in the entorhinal cortex,1,23,0,1,22,51,0.786329389,0.951420188,0.526146352,0.107774287,0.425273836
+nobel_11,11,A crucial role of angiotensin converting enzyme 2 (ACE2) in SARS coronavirus�Cinduced lung injury,0,16,1,4,11,29,0.795354366,0.881269097,0.542198956,0.075206079,0.339070141
+nobel_12,12,A phase 1 clinical trial of nerve growth factor gene therapy for Alzheimer disease,0,12,0,5,7,34,0.766901016,0.873984218,0.538708866,0.095449045,0.335275352
+nobel_13,13,Reversal of the cellular phenotype in the premature aging disease Hutchinson-Gilford progeria syndrome,0,13,0,5,8,21,0.774364591,0.874330878,0.532352209,0.100279905,0.341978669
+nobel_14,14,Regulation of lung injury and repair by Toll-like receptors and hyaluronan,0,19,0,8,11,42,0.745888054,0.865522623,0.467928171,0.113116778,0.397594452
+nobel_15,15,Auditory hair cell replacement and hearing improvement by Atoh1 gene therapy in deaf mammals,0,19,1,12,6,25,0.741030633,0.882829249,0.549093246,0.108494498,0.333736002
+nobel_16,16,Free fatty acids regulate gut incretin glucagon-like peptide-1 secretion through GPR120,0,20,0,11,9,31,0.728335321,0.892110527,0.496110737,0.116570592,0.395999789
+nobel_17,17,Behavior and circulating catecholamines,0,55,0,13,42,47,0.729784429,0.976145267,0.533214927,0.165269211,0.442930341
+nobel_18,18,The archistriatum of the pigeon: organization of afferent and efferent connections,0,18,0,6,12,14,0.738895953,0.965593934,0.59457612,0.162684947,0.371017814
+nobel_19,19,"Inhibition of indoleamine 2, 3-dioxygenase, an immunoregulatory target of the cancer suppression gene Bin1, potentiates cancer chemotherapy",0,33,0,14,19,51,0.763604105,0.885307431,0.488404661,0.114950858,0.39690277
+nobel_20,20,Sequence-specific potent induction of IFN-�� by short interfering RNA in plasmacytoid dendritic cells through TLR7,0,56,0,34,22,46,0.757072628,0.886011839,0.489632726,0.114244275,0.396379113
+nobel_21,21,Role of K-ras and Pten in the development of mouse models of endometriosis and endometrioid ovarian cancer,0,21,0,9,12,23,0.736249506,0.894800663,0.551120639,0.129100874,0.343680024
+nobel_22,22,Dendritic cells permit immune invasion of the CNS in an animal model of multiple sclerosis,0,34,1,12,21,41,0.788425148,0.923512101,0.561638713,0.09797927,0.361873388
+nobel_23,23,Inhibitors of histone deacetylases induce tumor-selective apoptosis through activation of the death receptor pathway,0,14,0,10,4,25,0.760879278,0.880800605,0.551157236,0.119661853,0.329643369
+nobel_24,24,Inhibition of respiratory viruses by nasally administered siRNA,0,26,0,11,15,45,0.76767832,0.881830394,0.522513092,0.090203866,0.359317303
+nobel_25,25,The discovery of artemisinin (qinghaosu) and gifts from Chinese medicine,1,14,0,0,14,36,0.719399929,0.89954716,0.500620544,0.105217442,0.398926616
+nobel_26,26,Tumor angiogenesis: molecular pathways and therapeutic targets,0,118,0,45,73,158,0.741533339,0.8856529,0.506783903,0.101814359,0.378868997
+nobel_27,27,A clinical microchip for evaluation of single immune cells reveals high functional heterogeneity in phenotypically similar T cells,0,68,0,25,43,33,0.763898492,0.855602503,0.509626389,0.099909656,0.345976114
+nobel_28,28,Intra-arterial catheter for simultaneous microstructural and molecular imaging in vivo,0,22,0,10,12,32,0.751925707,0.856600642,0.548435807,0.100752905,0.308164835
+nobel_29,29,Quantitative assessment of antimalarial activity in vitro by a semiautomated microdilution technique,0,26,0,16,10,21,0.692551315,0.803365111,0.516161799,0.110705018,0.287203312
+nobel_30,30,Growth inhibition by acycloguanosine of herpesviruses isolated from human infections,0,17,0,8,9,17,0.716480732,0.887975454,0.528292537,0.114940956,0.359682918
+nobel_31,31,Clinical pharmacokinetics and safety of high doses of ceforanide (BL-S786R) and cefazolin,0,24,1,11,12,16,0.704188108,0.849770308,0.547425687,0.120440997,0.30234462
+nobel_32,32,Human fibroblast interferon for clinical trials: pharmacokinetics and tolerability in experimental animals and humans,0,19,1,8,10,24,0.727247894,0.844851494,0.548368096,0.099033453,0.296483397
+nobel_33,33,"Avermectins, new family of potent anthelmintic agents: efficacy of the B1a component",0,9,2,4,3,9,0.614175379,0.90341574,0.468907237,0.148396298,0.434508502
+nobel_34,34,Sporulation and the production of serine protease and cephamycin C by Streptomyces lactamdurans,0,9,0,4,5,7,0.661813319,0.842751265,0.450507939,0.159003392,0.392243326
+nobel_35,35,Aminoglycoside-modifying enzymes among clinical isolates of Acinetobacter calcoaceticus subsp. anitratus (Herellea vaginicola): explanation for high-level aminoglycoside resistance,0,20,0,12,8,25,0.70294261,0.887903929,0.541999042,0.109762676,0.345904887
+nobel_36,36,Mechanism of aminoglycoside antibiotic resistance in anaerobic bacteria: Clostridium perfringens and Bacteroides fragilis,0,24,0,12,12,13,0.787926376,0.864854217,0.567082286,0.075661175,0.297771931
+nobel_37,37,"Human fibroblast interferon for clinical trials: production, partial purification, and characterization",0,37,0,6,31,20,0.792308271,0.884756923,0.582535386,0.091127515,0.302221537
+nobel_38,38,Strain of Trichomonas vaginalis resistant to metronidazole and other 5-nitroimidazoles,0,7,0,3,4,16,0.639710367,0.849931836,0.508190334,0.12874186,0.341741502
+nobel_39,39,Ceforanide: in vitro and clinical evaluation,0,10,0,3,7,6,0.724869788,0.844889641,0.544346452,0.125670925,0.300543189
+nobel_40,40,Isolation and characterization of autophagy-defective mutants of Saccharomyces cerevisiae,1,7,0,1,6,11,0.692168534,0.918793559,0.541103244,0.156716466,0.377690315
+nobel_41,41,2-Oxo-histidine as a novel biological marker for oxidatively modified proteins,0,7,0,1,6,13,0.792218447,0.910240173,0.540406108,0.154060185,0.369834065
+nobel_42,42,"Lysolipids reversibly inhibit Ca2+-, GTP-and pH-dependent fusion of biological membranes",0,19,0,7,12,30,0.704681396,0.911801457,0.514366746,0.171095282,0.397434711
+nobel_43,43,Molecular evolution of P450 superfamily and P450‐containing monooxygenase systems,0,36,2,11,23,30,0.716571391,0.910560012,0.510936201,0.155813426,0.399623811
+nobel_44,44,"Human CD40-ligand: molecular cloning, cellular distribution and regulation of expression by factors controlling IgE production",0,35,0,20,15,32,0.63153398,0.920951247,0.520364106,0.132743806,0.400587142
+nobel_45,45,Molecular cloning of a novel putative G protein-coupled receptor (GPCR21) which is expressed predominantly in mouse central nervous system,0,11,0,5,6,21,0.759822071,0.951005518,0.411236972,0.181320921,0.539768547
+nobel_46,46,High mobility group 1 protein (HMG-1) stimulates proinflammatory cytokine synthesis in human monocytes,0,10,1,2,7,30,0.724008381,0.89471662,0.526071906,0.1289915,0.368644714
+nobel_47,47,Genetic and biochemical evidence that haploinsufficiency of the Nf1 tumor suppressor gene modulates melanocyte and mast cell fates in vivo,0,19,6,6,7,31,0.791051626,0.911181808,0.538965166,0.112528123,0.372216642
+nobel_48,48,"Induced expression of PD�\1, a novel member of the immunoglobulin gene superfamily, upon programmed cell death",1,19,0,10,9,39,0.737869263,0.89046514,0.510576367,0.126474485,0.379888773
+nobel_49,49,Molecular cloning of human growth inhibitory factor cDNA and its down-regulation in Alzheimer's disease.,0,46,0,19,27,33,0.714967132,0.891488612,0.534965038,0.122061566,0.356523573
+nobel_50,50,"Molecular cloning and characterization of iojap (ij), a pattern striping gene of maize.",0,47,0,21,26,2,0.537343025,0.541345358,0.533340752,0.004002303,0.008004606
+nobel_51,51,Conformation of B-DNA containing O6-ethyl-G-C base pairs stabilized by minor groove binding drugs: molecular structure of d (CGC AATTCGCG complexed with Hoechst 33258 or Hoechst 33342.,0,50,0,5,45,1,0.718672395,0.718672395,0.718672395,0,0
+nobel_52,52,Residue 21 of human granulocyte-macrophage colony-stimulating factor is critical for biological activity and for high but not low affinity binding.,0,67,1,47,19,1,0.626521885,0.626521885,0.626521885,0,0
+nobel_53,53,The polymorphic photopigments of the marmoset: spectral tuning and genetic basis.,0,28,0,9,19,2,0.638799071,0.76975137,0.507846713,0.130952328,0.261904657
+nobel_54,54,"Role of HIF-1�� in hypoxia-mediated apoptosis, cell proliferation and tumour angiogenesis",1,81,2,18,61,30,0.471446991,0.808658183,0.438650072,0.064083584,0.370008111
+nobel_55,55,A newly discovered class of human hematopoietic cells with SCID-repopulating activity,0,62,1,40,21,34,0.812389851,0.875391364,0.726389349,0.036988206,0.149002016
+nobel_56,56,Identification of a new human immunodeficiency virus type 1 distinct from group M and group O,0,85,3,52,30,36,0.727499604,0.874865413,0.468015701,0.129606038,0.406849712
+nobel_57,57,Parasite antigens on the infected red cell surface are targets for naturally acquired immunity to malaria,0,12,0,6,6,23,0.750451446,0.882392526,0.583558142,0.11763756,0.298834383
+nobel_58,58,Vaccine requirements for sustained cellular immunity to an intracellular parasitic infection,0,34,0,9,25,31,0.776303768,0.854687572,0.550632477,0.065309502,0.304055095
+nobel_59,59,5-fluorouracil: mechanisms of action and clinical strategies,0,92,6,21,65,111,0.733852804,0.891552448,0.513231456,0.101191156,0.378320992
+nobel_60,60,Activation of vascular endothelial growth factor gene transcription by hypoxia-inducible factor 1,1,64,0,32,32,60,0.74760288,0.906006575,0.432498485,0.118611567,0.47350809
+nobel_61,61,Cell cycle and genetic requirements of two pathways of nonhomologous end-joining repair of double-strand breaks in Saccharomyces cerevisiae,0,43,0,18,25,52,0.780548692,0.899791956,0.514059424,0.117221296,0.385732532
+nobel_62,62,"Sst2, a negative regulator of pheromone signaling in the yeast Saccharomyces cerevisiae: expression, localization, and genetic interaction and physical association with Gpa1 (the G-protein α subunit)",0,79,7,35,37,114,0.728468299,0.916926384,0.513415992,0.141637594,0.403510392
+nobel_63,63,Differential activation of the Ras/extracellular-signal-regulated protein kinase pathway is responsible for the biological consequences induced by the Axl receptor tyrosine kinase,0,92,6,39,47,52,0.767862737,0.893699229,0.547471881,0.123659372,0.346227348
+nobel_64,64,Structural analysis of substrate binding by the molecular chaperone DnaK,0,69,5,41,23,56,0.782235682,0.927634597,0.499049693,0.128329575,0.428584903
+nobel_65,65,The future of genetic studies of complex human diseases,0,21,0,10,11,3,0.800793707,0.839730322,0.77303648,0.028351951,0.066693842
+nobel_66,66,Ligand binding: molecular mechanics calculation of the streptavidin-biotin rupture force,0,21,1,9,11,18,0.814677358,0.891325414,0.548098683,0.072003067,0.343226731
+nobel_67,67,Molecular basis of gene-for-gene specificity in bacterial speck disease of tomato,0,33,0,16,17,13,0.774243593,0.846377134,0.563156903,0.075523466,0.283220232
+nobel_68,68,"Isolation of a cDNA clone derived from a blood-borne non-A, non-B viral hepatitis genome",1,42,0,22,20,19,0.750296116,0.914523959,0.565820158,0.13708739,0.348703802
+nobel_69,69,�æ� T Cells: First Line of Defense and Beyond,0,68,12,8,48,248,0.759543121,0.887619972,0.524669707,0.092763029,0.362950265
+nobel_70,70,Simulated quantum computation of molecular energies,0,11,0,5,6,11,0.772535086,0.851223469,0.590514719,0.085854933,0.260708749
+nobel_71,71,A systems model of signaling identifies a molecular basis set for cytokine-induced apoptosis,0,41,2,17,22,28,0.494722307,0.599315405,0.490848511,0.020128947,0.108466893
+nobel_72,72,The exposome and health: Where chemistry meets biology,0,33,0,12,21,37,0.720827341,0.869545937,0.53313148,0.102180719,0.336414456
+nobel_73,73,The capsaicin receptor: a heat-activated ion channel in the pain pathway,1,51,0,12,39,44,0.711813033,0.873763204,0.537668586,0.122634627,0.336094618
+nobel_74,74,Carbon nanotube-based nonvolatile random access memory for molecular computing,0,24,0,10,14,22,0.751426101,0.85918355,0.488462806,0.096950024,0.370720744
+nobel_75,75,The way things move: looking under the hood of molecular motor proteins,0,74,0,26,48,44,0.512130082,0.764587164,0.468376815,0.04332066,0.296210349
+nobel_76,76,The genetic legacy of Paleolithic Homo sapiens sapiens in extant Europeans: AY chromosome perspective,0,50,5,17,28,28,0.787930667,0.913766026,0.545908034,0.116907842,0.367857993
+nobel_77,77,Piezo1 and Piezo2 Are Essential Components of Distinct Mechanically Activated Cation Channels,1,16,0,1,15,36,0.68353194,0.852426767,0.465727538,0.126816601,0.386699229
+nobel_78,78,The rate and molecular spectrum of spontaneous mutations in Arabidopsis thaliana,0,28,0,22,6,20,0.829340339,0.92143631,0.569093525,0.089138202,0.352342784
+nobel_79,79,Zebrafish behavioral profiling links drugs to biological targets and rest/wake regulation,0,18,4,8,6,26,0.643361628,0.824272931,0.430276006,0.128629401,0.393996924
+nobel_80,80,A genetic variant BDNF polymorphism alters extinction learning in both mouse and human,0,8,0,4,4,32,0.693210065,0.866323233,0.518774211,0.124384701,0.347549021
+nobel_81,81,Genetic reactivation of cone photoreceptors restores visual responses in retinitis pigmentosa,0,22,0,18,4,36,0.683488846,0.881087661,0.484641194,0.122385398,0.396446466
+nobel_82,82,A Draft Sequence of the Neandertal Genome,1,76,0,41,35,143,0.754392564,0.911100388,0.452705264,0.109938398,0.458395123
+nobel_83,83,The genetic landscape of a cell,0,42,0,27,15,41,0.751189172,0.883699119,0.463324636,0.111820288,0.420374483
+nobel_84,84,Regulation of cellular metabolism by protein lysine acetylation,0,16,0,0,16,14,0.678110421,0.845056176,0.528353572,0.121255107,0.316702604
+nobel_85,85,Suppression of RNA recognition by Toll-like receptors: the impact of nucleoside modification and the evolutionary origin of RNA,1,54,0,12,42,33,0.634091198,0.970821381,0.482525826,0.161293253,0.488295555
+nobel_86,86,Rules of recruitment for Th1 and Th2 lymphocytes in inflamed liver: a role for alpha-4 integrin and vascular adhesion protein-1,0,40,6,12,22,42,0.523104012,0.583155215,0.483967304,0.02510551,0.099187911
+nobel_87,87,The role of ligand efficiency metrics in drug discovery,0,71,1,36,34,83,0.763164759,0.923995614,0.545455039,0.119086161,0.378540576
+nobel_88,88,COVID-19 vaccine BNT162b1 elicits human antibody and TH1 T cell responses,1,31,0,20,11,36,0.669813335,0.885715008,0.47303158,0.141992465,0.412683427
+nobel_89,89,"Implications of TP53 allelic state for genome stability, clinical presentation and outcomes in myelodysplastic syndromes",0,62,0,43,19,56,0.768354535,0.915102243,0.520089865,0.099368259,0.395012379
+nobel_90,90,Polygenic and clinical risk scores and their impact on age at onset and prediction of cardiometabolic diseases and common cancers,0,61,0,48,13,47,0.707855701,0.863599777,0.445697129,0.136053532,0.417902648
+nobel_91,91,Elevated serum interleukin-8 is associated with enhanced intratumor neutrophils and reduced clinical benefit of immune-checkpoint inhibitors,0,79,0,21,58,33,0.754941165,0.854398251,0.521547616,0.086815529,0.332850635
+nobel_92,92,Tau molecular diversity contributes to clinical heterogeneity in Alzheimer’s disease,0,34,0,24,10,56,0.748442471,0.872942507,0.473904252,0.11627277,0.399038255
+nobel_93,93,Clinical and virologic characteristics of the first 12 patients with coronavirus disease 2019 (COVID-19) in the United States,0,42,0,20,22,21,0.786196053,0.916128397,0.583588243,0.111416407,0.332540154
+nobel_94,94,The clinical trial landscape for PD1/PDL1 immune checkpoint inhibitors,0,5,0,3,2,2,0.772758186,0.871480107,0.674036264,0.098721921,0.197443843
+nobel_95,95,Identification of early cellular immune factors regulating growth of malaria parasites in humans,0,11,0,0,11,12,0.780885696,0.793951333,0.637164235,0.043333668,0.156787097
+nobel_96,96,The C. elegans heterochronic gene lin-4 encodes small RNAs with antisense complementarity to lin-14,1,65,0,36,29,50,0.734737456,0.977390051,0.505711377,0.177571014,0.471678674
+nobel_97,97,The functions of animal microRNAs,1,61,0,26,35,52,0.706788957,0.888498425,0.52644372,0.111930564,0.362054706
+nobel_98,98,Molecular basis of Mycoplasma surface antigenic variation: a novel set of divergent genes undergo spontaneous mutation of periodic coding regions and 5�?regulatory sequences.,0,63,4,29,30,2,0.65703398,0.721933424,0.592134535,0.064899445,0.129798889
+nobel_99,99,Saccharomyces cerevisiae a- and alpha-agglutinin: characterization of their molecular interaction.,0,47,0,26,21,1,0.699370265,0.699370265,0.699370265,0,0
+nobel_100,100,Cellular immune responses persist and humoral responses decrease two decades after recovery from a single-source outbreak of hepatitis C,0,23,0,8,15,14,0.773104668,0.897167921,0.564636707,0.108955204,0.332531214
+nobel_101,101,Encephalitogenic potential of the myelin basic protein peptide (amino acids 83�C99) in multiple sclerosis: Results of a phase II clinical trial with an altered peptide ligand,0,42,0,24,18,56,0.469684303,0.708521128,0.465341777,0.032204751,0.243179351
+nobel_102,102,Human mesenchymal stem cells engraft and demonstrate site-specific differentiation after in utero transplantation in sheep,0,16,0,7,9,22,0.787254393,0.859853506,0.496753037,0.107862823,0.363100469
+nobel_103,103,A principal target of human immunity to malaria identified by molecular population genetic and immunological analyses,0,20,0,7,13,38,0.488180071,0.737951159,0.47984013,0.042126637,0.25811103
+nobel_104,104,Protein denaturation in intact hepatocytes and isolated cellular organelles during heat shock,0,53,0,21,32,33,0.692684889,0.851306975,0.499988794,0.140657097,0.351318181
+nobel_105,105,First genetic evidence of GABAA receptor dysfunction in epilepsy: a mutation in the ��2-subunit gene,0,8,0,5,3,21,0.81938082,0.932388306,0.592545867,0.097878046,0.339842439
+nobel_106,106,Population genetic structure of variable drug response,0,17,0,7,10,18,0.723047495,0.823429465,0.50036931,0.102443807,0.323060155
+nobel_107,107,"Disruption of a new forkhead/winged-helix protein, scurfin, results in the fatal lymphoproliferative disorder of the scurfy mouse",1,14,0,7,7,28,0.785995841,0.891589403,0.506873548,0.108245447,0.384715855
+nobel_108,108,Human mtDNA and Y-chromosome variation is correlated with matrilocal versus patrilocal residence,0,5,0,3,2,12,0.77812022,0.840717375,0.576600194,0.067666799,0.264117181
+nobel_109,109,A literature network of human genes for high-throughput analysis of gene expression,0,22,2,8,12,32,0.756628096,0.868659973,0.524181962,0.10072618,0.344478011
+nobel_110,110,An abundance of X-linked genes expressed in spermatogonia,0,39,2,18,19,29,0.757672668,0.872295856,0.535475671,0.097830966,0.336820185
+nobel_111,111,Identification of the gene altered in Berardinelli�CSeip congenital lipodystrophy on chromosome 11q13,0,17,0,10,7,28,0.734714329,0.890181303,0.511942863,0.131037086,0.37823844
+nobel_112,112,Transcriptional regulation and function during the human cell cycle,0,28,0,10,18,50,0.778647542,0.903254032,0.548379898,0.082855798,0.354874134
+nobel_113,113,Natural variation in light sensitivity of Arabidopsis,0,19,0,16,3,27,0.792231023,0.89899987,0.532719135,0.080986641,0.366280735
+nobel_114,114,The nature of molecular recognition by T cells,0,96,6,17,73,81,0.749866843,0.915821731,0.556533217,0.118834116,0.359288514
+nobel_115,115,Molecular mimicry of a CCR5 binding-domain in the microbial activation of dendritic cells,0,30,0,10,20,19,0.784227908,0.885974109,0.542381346,0.102317795,0.343592763
+nobel_116,116,"Genetic tagging shows increased frequency and longevity of antigen-presenting, skin-derived dendritic cells in vivo",0,29,0,17,12,38,0.75742203,0.881302297,0.51880461,0.115063749,0.362497687
+nobel_117,117,Immunologic self-tolerance maintained by activated T cells expressing IL-2 receptor alpha-chains (CD25). Breakdown of a single mechanism of self-tolerance causes various autoimmune diseases,1,46,0,13,33,60,0.786788106,0.916873813,0.545010269,0.117715918,0.371863544

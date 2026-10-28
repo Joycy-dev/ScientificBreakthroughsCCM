@@ -1,0 +1,18 @@
+﻿check,status,details
+all_oof_rows_present,PASS,"rows=405, unique_idx=405"
+all_model_scores_finite,PASS,all five OOF score columns checked
+all_ids_present_and_unique,PASS,"rows=405, unique_id=405"
+local_idx_retained_not_used_as_key,PASS,duplicate_local_idx=118; unique audit key is id
+cusp_ids_match_main_model,PASS,compared by unique id
+same_fold_as_main_model,PASS,compared by id
+same_relevance_as_main_model,PASS,max_abs_difference=8.32667268469e-17
+cusp_delta_reproduces_main_model,PASS,max_abs_difference=2.22044604925e-16
+cusp_score_reproduces_main_model,PASS,max_abs_difference=2.22044604925e-16
+cusp_threshold_reproduces_main_model,PASS,max_abs_difference=5.55111512313e-17
+cusp_beta_reproduces_main_model,PASS,max_abs_difference=1.11022302463e-16
+cusp_predictions_reproduce_main_model,PASS,OOF predictions compared by id
+cusp_metrics_reproduce_main_model,PASS,max_abs_difference=0
+reference_count_ids_match_prior_M0,PASS,compared by unique id
+reference_count_probability_reproduces_prior_M0,PASS,max_abs_difference=9.71445146547e-17
+reference_count_threshold_reproduces_prior_M0,PASS,max_abs_difference=8.32667268469e-17
+reference_count_predictions_reproduce_prior_M0,PASS,OOF predictions compared by id
