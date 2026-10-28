@@ -1,0 +1,48 @@
+{
+  "run_timestamp_utc": "2026-10-23T12:14:52.653280+00:00",
+  "input_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_data.xlsx",
+  "input_sha256": "b9943566edf0675e7e7c0ad8de2b91343780be29f679b3643527c5f63be3cc46",
+  "base_training_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_train\\ai_fivefold_training.py",
+  "base_training_script_sha256": "86a02f724841ca09b8ab6f91f9f63e6eb2e0a59c238ddbe03d911e9aa4afaa97",
+  "main_oof_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_train\\oof_predictions.csv",
+  "prior_reference_count_oof_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_robustness\\reference_count_oof_predictions.csv",
+  "output_directory": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_compare",
+  "sample_n": 843,
+  "award_n": 233,
+  "control_n": 610,
+  "folds": 5,
+  "random_state": 20260612,
+  "bootstrap_repetitions": 2000,
+  "models": {
+    "baseline_1_heterogeneity_only": "unpenalized logistic regression using m",
+    "baseline_2_relevance_only": "unpenalized logistic regression using n",
+    "baseline_3_reference_count_only": "unpenalized logistic regression using log(1 + num_refs)",
+    "baseline_4_simple_logistic_m_n": "unpenalized logistic regression using m + n",
+    "proposed_cusp": "Delta = -8*m^3 + 27*beta^2*n^2"
+  },
+  "feature_scaling": "m, n, and log_num_refs standardized using training-fold mean and standard deviation for logistic models only; training-fold parameters applied unchanged to the held-out fold.",
+  "threshold_selection": "F1-optimal empirical threshold learned independently in each training fold for every model.",
+  "reference_count_transform": "log(1 + num_refs)",
+  "reference_count_used_only_in": "baseline_3_reference_count_only",
+  "software": {
+    "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "pandas": "2.2.2",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "scikit_learn": "1.5.1"
+  },
+  "output_files": [
+    "four_baselines_input_validation.csv",
+    "four_baselines_vs_cusp_design_checks.csv",
+    "four_baselines_fold_parameters.csv",
+    "four_baselines_fold_test_metrics.csv",
+    "four_baselines_overall_metrics.csv",
+    "five_models_fold_parameters.csv",
+    "five_models_fold_test_metrics.csv",
+    "five_models_oof_predictions.csv",
+    "five_models_overall_comparison.csv",
+    "five_models_display_table.csv",
+    "cusp_vs_each_of_four_baselines_paired_bootstrap.csv"
+  ]
+}

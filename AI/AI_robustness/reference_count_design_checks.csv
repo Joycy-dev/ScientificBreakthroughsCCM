@@ -1,0 +1,6 @@
+﻿check,status,details
+all_oof_rows_present,PASS,"rows=843, unique_idx=843"
+all_probabilities_finite,PASS,all three OOF probability columns checked
+positive_training_scaler_sd,PASS,"n, m, and log_num_refs scaler SDs checked"
+same_fold_as_main_model,PASS,compared by idx
+same_relevance_as_main_model,PASS,max_abs_difference=8.32667268469e-17

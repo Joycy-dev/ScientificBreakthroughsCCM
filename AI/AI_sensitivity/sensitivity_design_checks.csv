@@ -1,0 +1,7 @@
+﻿check,status,details
+baseline_oof_complete,PASS,"rows=843, unique_idx=843"
+all_sensitivity_values_finite,PASS,"n, beta, Delta, and scores checked"
+same_fold_as_main_model,PASS,compared by idx
+baseline_delta_reproduces_main_model,PASS,max_abs_difference=4.4408920985e-16
+baseline_predictions_reproduce_main_model,PASS,OOF predictions compared by idx
+baseline_metrics_reproduce_main_model,PASS,max_abs_difference=0

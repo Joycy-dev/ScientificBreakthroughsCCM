@@ -1,0 +1,6 @@
+﻿check,status,details
+same_oof_row_order,PASS,idx sequences compared
+same_fold_assignment,PASS,fold assignments compared for every sample
+same_weight_d_by_fold,PASS,max_abs_difference=0
+same_weight_m_by_fold,PASS,max_abs_difference=0
+same_weight_s_by_fold,PASS,max_abs_difference=0

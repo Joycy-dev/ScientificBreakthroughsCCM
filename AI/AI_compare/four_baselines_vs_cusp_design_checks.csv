@@ -1,0 +1,11 @@
+﻿check,status,details
+all_oof_rows_present,PASS,"rows=843, unique_idx=843"
+all_model_scores_finite,PASS,all five OOF score columns checked
+same_fold_as_main_model,PASS,compared by idx
+same_relevance_as_main_model,PASS,max_abs_difference=8.32667268469e-17
+cusp_delta_reproduces_main_model,PASS,max_abs_difference=4.4408920985e-16
+cusp_score_reproduces_main_model,PASS,max_abs_difference=2.22044604925e-16
+cusp_predictions_reproduce_main_model,PASS,OOF predictions compared by idx
+reference_count_probability_reproduces_prior_M0,PASS,max_abs_difference=9.71445146547e-17
+reference_count_threshold_reproduces_prior_M0,PASS,max_abs_difference=5.55111512313e-17
+reference_count_predictions_reproduce_prior_M0,PASS,OOF predictions compared by idx

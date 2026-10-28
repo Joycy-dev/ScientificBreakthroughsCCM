@@ -1,0 +1,54 @@
+{
+  "run_timestamp_utc": "2026-10-23T10:30:51.616896+00:00",
+  "input_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_data.xlsx",
+  "input_sha256": "b9943566edf0675e7e7c0ad8de2b91343780be29f679b3643527c5f63be3cc46",
+  "base_training_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_train\\ai_fivefold_training.py",
+  "base_training_script_sha256": "86a02f724841ca09b8ab6f91f9f63e6eb2e0a59c238ddbe03d911e9aa4afaa97",
+  "main_oof_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_train\\oof_predictions.csv",
+  "output_directory": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_robustness",
+  "sample_n": 843,
+  "award_n": 233,
+  "control_n": 610,
+  "folds": 5,
+  "random_state": 20260612,
+  "bootstrap_repetitions": 2000,
+  "models": {
+    "M0_count": [
+      "log_num_refs"
+    ],
+    "M1_relevance_count": [
+      "n",
+      "log_num_refs"
+    ],
+    "M2_relevance_heterogeneity_count": [
+      "n",
+      "m",
+      "log_num_refs"
+    ]
+  },
+  "reference_count_transform": "log(1 + num_refs)",
+  "standardization": "StandardScaler fit on n, m, and log_num_refs in each training fold; training-fold parameters applied unchanged to the held-out fold.",
+  "estimator": "Unpenalized binary logistic regression; F1-optimal probability threshold learned on each training fold.",
+  "inference": "Pooled auxiliary Logit using OOF n and standardized predictors, with HC3 robust standard errors.",
+  "software": {
+    "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "pandas": "2.2.2",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "scikit_learn": "1.5.1",
+    "statsmodels": "0.14.2"
+  },
+  "output_files": [
+    "reference_count_input_validation.csv",
+    "reference_count_design_checks.csv",
+    "reference_count_fold_parameters.csv",
+    "reference_count_fold_test_metrics.csv",
+    "reference_count_oof_predictions.csv",
+    "reference_count_overall_metrics.csv",
+    "reference_count_metric_comparison.csv",
+    "reference_count_paired_bootstrap_m2_vs_m1.csv",
+    "reference_count_adjusted_coefficients.csv",
+    "reference_count_adjusted_model_comparison.csv"
+  ]
+}

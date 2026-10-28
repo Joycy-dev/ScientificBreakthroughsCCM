@@ -1,0 +1,50 @@
+{
+  "run_timestamp_utc": "2026-10-23T10:02:43.208928+00:00",
+  "input_file": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_data.xlsx",
+  "input_sha256": "b9943566edf0675e7e7c0ad8de2b91343780be29f679b3643527c5f63be3cc46",
+  "base_training_script": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_train\\ai_fivefold_training.py",
+  "base_training_script_sha256": "86a02f724841ca09b8ab6f91f9f63e6eb2e0a59c238ddbe03d911e9aa4afaa97",
+  "output_directory": "D:\\HuaweiMoveData\\Users\\ZX\\Documents\\ChatGPT\\revisions\\all data\\fields data\\AI\\AI_robustness",
+  "sample_n": 843,
+  "award_n": 233,
+  "control_n": 610,
+  "folds": 5,
+  "random_state": 20260612,
+  "bootstrap_repetitions": 2000,
+  "variants": {
+    "range_main": {
+      "heterogeneity_column": "m",
+      "definition": "max_similarity - min_similarity"
+    },
+    "std_alternative": {
+      "heterogeneity_column": "std_similarity",
+      "definition": "numpy population standard deviation (ddof=0)"
+    }
+  },
+  "leakage_control": "Citation weights, beta, and F1-optimal threshold are estimated within each training fold and applied unchanged to its test fold.",
+  "software": {
+    "python": "3.12.7 | packaged by Anaconda, Inc. | (main, Oct  4 2024, 13:17:27) [MSC v.1929 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "pandas": "2.2.2",
+    "numpy": "1.26.4",
+    "scipy": "1.13.1",
+    "scikit_learn": "1.5.1"
+  },
+  "output_files": [
+    "input_validation.csv",
+    "indicator_descriptive_statistics.csv",
+    "indicator_correlations.csv",
+    "design_checks.csv",
+    "fold_parameters_range.csv",
+    "fold_parameters_std.csv",
+    "fold_parameter_comparison.csv",
+    "fold_test_metrics_range.csv",
+    "fold_test_metrics_std.csv",
+    "oof_predictions_range.csv",
+    "oof_predictions_std.csv",
+    "metric_confidence_intervals_range.csv",
+    "metric_confidence_intervals_std.csv",
+    "overall_metrics_comparison.csv",
+    "paired_bootstrap_metric_differences.csv"
+  ]
+}
